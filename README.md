@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
-- [Day 28](/log/2016-05-28.md) - Read: `web design` `sass vs less` / Did: `tads: web-design`
+- [Day 29](/log/2016-05-29.md) - Read: `sass` `firmware`
+- [Day 28](/log/2016-05-28.md) - Read: `web design` `sass vs less` / Did: `tads: web-design` `MEAN STACK BOOTCAMP \o/`
 - Day 27 - Did: `tads exercise: web-design`
 - [Day 26](/log/2016-05-26.md) - Read: `blog: anasancao society` / Did: `meeting: integrada soluções` `tads exercise: programacao-de-computadores`
 - [Day 25](/log/2016-05-25.md) - Read: `medium: raphamorim` / Did: `tads exam: sistemas digitais`
