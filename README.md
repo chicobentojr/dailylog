@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- [Day 31](/log/2016-05-31.md) - Read: `arduino` `platformio` `html template` / Did: `tads: programacao-de-computadores`
 - [Day 30](/log/2016-05-30.md) - Read: `css stick footer` / Did: `tads: web-design` `write medium`
 - [Day 29](/log/2016-05-29.md) - Read: `sass` `firmware`
 - [Day 28](/log/2016-05-28.md) - Read: `web design` `sass vs less` / Did: `tads: web-design` `MEAN STACK BOOTCAMP \o/`
