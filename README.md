@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Jun
+
+- [Day 01](/log/2016-06-01.md) - Read: `research: arduino proteus simulino`
+
 ### May
 
 - [Day 31](/log/2016-05-31.md) - Read: `arduino` `platformio` `html template` / Did: `tads: programacao-de-computadores`
