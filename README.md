@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- [Day 03](/log/2016-06-03.md) - Read: `arduino proteus` `security password email`
 - [Day 02](/log/2016-06-02.md) - Read: `arduino atom` / Did: `tads: programacao-de-computadores` `proteus arduino`
 - [Day 01](/log/2016-06-01.md) - Read: `research: arduino proteus simulino`
 
