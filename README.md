@@ -8,8 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
-- [Day 03](/log/2016-06-03.md) - Read: `johnny five arduino proteus` `security password email`
-- [Day 02](/log/2016-06-02.md) - Read: `arduino atom` / Did: `tads: programacao-de-computadores` `proteus arduino`
+- [Day 04](/log/2016-06-04.md) - Read: `github streak` `remote work` `c++` / Did: `arduino proteus`
+- [Day 03](/log/2016-06-03.md) - Read: `johnny five arduino proteus` `security password email` / Did: `arduino proteus`
+- [Day 02](/log/2016-06-02.md) - Read: `arduino atom` / Did: `tads: programacao-de-computadores` `arduino proteus`
 - [Day 01](/log/2016-06-01.md) - Read: `research: arduino proteus simulino`
 
 ### May
