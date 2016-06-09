@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- [Day 08](/log/2016-06-08.md) - Read: `arduino library style guide` / Did: `game firi` `healthy :D`
 - [Day 07](/log/2016-06-07.md) - Read: `motivation` / Did: `sick :'(`
 - [Day 06](/log/2016-06-06.md) - Read: `startup learning` / Did: `web-design` `programacao-de-computadores`
 - [Day 05](/log/2016-06-05.md) - Read: `algorithm asp-net` / Did: `trabb pardo-knuth` `signalr sample`
