@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- [Day 09](/log/2016-06-09.md) - Read: `startup entrepreneur` / Did: `arduino`
 - [Day 08](/log/2016-06-08.md) - Read: `arduino library style guide` / Did: `game firi` `healthy :D`
 - [Day 07](/log/2016-06-07.md) - Read: `motivation` / Did: `sick :'(`
 - [Day 06](/log/2016-06-06.md) - Read: `startup learning` / Did: `web-design` `programacao-de-computadores`
