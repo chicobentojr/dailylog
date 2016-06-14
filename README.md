@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
-- [Day 13](/log/2016-06-13.md) - Read: `startup` `entrepreneur` `design` `social media` / Did: `programacao-de-computadores`
+- [Day 13](/log/2016-06-13.md) - Read: `startup` `entrepreneur` `design` `social media` / Did: `programacao-de-computadores` `arduino`
 - Day 12 - Did: `godmother's house` `Enemy`
 - [Day 11](/log/2016-06-11.md) - Read: `society` `work` / Did: `programacao-de-computadores` `X-Men: Apocalypse`
 - [Day 10](/log/2016-06-10.md) - Read: `society life lessons` / Did: `arduino`
