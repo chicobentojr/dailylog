@@ -8,11 +8,12 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- [Day 18](/log/2016-06-18.md) - Read: `reactjs` `life lessons` / Did: `HIMYM`
 - [Day 17](/log/2016-06-17.md) - Read: `personal projects` `github` `streak` / Did: `programacao-de-computadores`
 - [Day 16](/log/2016-06-16.md) - Read: `entrepreneur` `lessons` `i2c` `virtualenv` / Did: `arduino` `linkbox`
 - [Day 15](/log/2016-06-15.md) - Read: `regulation` `work` `balanced life` / Did: `sistemas digitais` `arduino`
 - [Day 14](/log/2016-06-14.md) - Read: `entrepreneur` `learning` / Did: `programacao-de-computadores`
-- [Day 13](/log/2016-06-13.md) - Read: `startup` `entrepreneur` `design` `social media` / Did: `programacao-de-computadores` `arduino`
+- [Day 13](/log/2016-06-13.md) - Read: `startup` `entrepreneur` `design` `social media` / Did: `programacao-de-computadores` `arduino` `About Time`
 - Day 12 - Did: `godmother's house` `Enemy`
 - [Day 11](/log/2016-06-11.md) - Read: `society` `work` / Did: `programacao-de-computadores` `X-Men: Apocalypse`
 - [Day 10](/log/2016-06-10.md) - Read: `society life lessons` / Did: `arduino`
