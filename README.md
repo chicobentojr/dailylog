@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 20 - Did: `programacao-de-computadores` `IFRN games opening`
 - [Day 19](/log/2016-06-19.md) - Read: `life lessons` `writing` `creativity` / Did: `The Danish Girl`
 - [Day 18](/log/2016-06-18.md) - Read: `reactjs` `life lessons` / Did: `HIMYM`
 - [Day 17](/log/2016-06-17.md) - Read: `personal projects` `github` `streak` / Did: `programacao-de-computadores`
