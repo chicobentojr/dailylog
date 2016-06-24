@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 22 - Did: `IFRN games` `chartjs.org`
 - [Day 21](/log/2016-06-21.md) - Read: `learning` `startup` / Did: `programacao-de-computadores`
 - Day 20 - Did: `programacao-de-computadores` `IFRN games opening`
 - [Day 19](/log/2016-06-19.md) - Read: `life lessons` `writing` `creativity` / Did: `The Danish Girl`
