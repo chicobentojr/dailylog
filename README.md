@@ -8,6 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+
+- [Day 26](/log/2016-06-26.md) - Read: `surge.sh` `developer` `GoT` / Did: `friends` `fifa`
 - Day 25 - Did: `friends` `bia's house` `food`
 - Day 24 - Did: `friends` `house` `fifa`
 - [Day 23](/log/2016-06-23.md) - Read: `life` `work` `chartjs` / Did: `IFRN games` `arduino`
