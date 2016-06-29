@@ -9,6 +9,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 ### Jun
 
 
+- [Day 28](/log/2016-06-28.md) - Read: `kafka` / Did: `echarts`
 - [Day 27](/log/2016-06-27.md) - Read: `internet` `life lessons` `procrastination` / Did: `programacao-de-computadores`
 - [Day 26](/log/2016-06-26.md) - Read: `surge.sh` `developer` `GoT` / Did: `friends` `fifa`
 - Day 25 - Did: `friends` `bia's house` `food`
