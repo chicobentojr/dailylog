@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
-
+- Day 30 - Did: `Teenage Mutant Ninja Turtles: Out of the Shadows`
 - Day 29 - Did: `sistemas digitais` `echarts`
 - [Day 28](/log/2016-06-28.md) - Read: `kafka` / Did: `echarts`
 - [Day 27](/log/2016-06-27.md) - Read: `internet` `life lessons` `procrastination` / Did: `programacao-de-computadores`
