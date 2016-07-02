@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Jul
+
+- Day 01 - Did: `sistemas digitais` `programacao-de-computadores`
+
 ### Jun
 
 - Day 30 - Did: `Teenage Mutant Ninja Turtles: Out of the Shadows`
