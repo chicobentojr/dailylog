@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 02](/log/2016-07-02.md) - Read: `coding` `life lessons` `data` / Did: `sistemas digitais` `I Origins`
 - Day 01 - Did: `sistemas digitais` `programacao-de-computadores`
 
 ### Jun
