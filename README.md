@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 05](/log/2016-07-05.md) - Read: `gosu` `life lessons` `kafka` / Did: `gosu`
 - [Day 04](/log/2016-07-04.md) - Read: `coding` `life lessons` `ssh` `link` / Did: `programacao-de-computadores`
 - Day 03 - Did: `programacao-de-computadores` `The Double`
 - [Day 02](/log/2016-07-02.md) - Read: `coding` `life lessons` `data` / Did: `sistemas digitais` `I Origins`
