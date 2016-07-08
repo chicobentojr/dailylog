@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 07 - Did: `Finding Dory` `sistemas digitais`
 - [Day 06](/log/2016-07-06.md) - Read: `life lessons` `creativity` `FlatBuffers`
 - [Day 05](/log/2016-07-05.md) - Read: `gosu` `life lessons` `kafka` / Did: `gosu`
 - [Day 04](/log/2016-07-04.md) - Read: `coding` `life lessons` `ssh` `link` / Did: `programacao-de-computadores`
