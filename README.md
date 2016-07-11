@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 10 - Did: `echarts`
 - [Day 09](/log/2016-07-09.md) - Did: `videos` `Human vol. 1`
 - [Day 08](/log/2016-07-08.md) - Read: `life lessons` `time` `work` / Did: `mustelas` `sistemas digitais`
 - Day 07 - Did: `Finding Dory` `sistemas digitais`
