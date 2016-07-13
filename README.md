@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 12](/log/2016-07-12.md) - Read: `life lessons` `entrepreneur` `coding`
 - [Day 11](/log/2016-07-11.md) - Read: `openshift` `ssh` `flask` / Did: `programacao-de-computadores`
 - Day 10 - Did: `echarts`
 - [Day 09](/log/2016-07-09.md) - Did: `videos` `Human vol. 1`
