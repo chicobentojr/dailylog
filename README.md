@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
-- Day 14 - Did: `sistemas digitais` `programacao-de-computadores`
+- [Day 15](/log/2016-07-15.md) - Did: `sistemas digitais` `siac` `Quantum Computers`
+- [Day 14](/log/2016-07-14.md) - Read: `ECMAScript 6` `book` /  Did: `friends volleyball` `sistemas digitais` `programacao-de-computadores`
 - Day 13 - Did: `sistemas digitais`
 - [Day 12](/log/2016-07-12.md) - Read: `life lessons` `entrepreneur` `coding`
 - [Day 11](/log/2016-07-11.md) - Read: `openshift` `ssh` `flask` / Did: `programacao-de-computadores`
