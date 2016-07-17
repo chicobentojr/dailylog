@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 16](/log/2016-07-16.md) - Read: `js` `anonymous function` / Did: `HIMYM`
 - [Day 15](/log/2016-07-15.md) - Did: `sistemas digitais` `siac` `Quantum Computers`
 - [Day 14](/log/2016-07-14.md) - Read: `ECMAScript 6` `book` /  Did: `friends volleyball` `sistemas digitais` `programacao-de-computadores`
 - Day 13 - Did: `sistemas digitais`
