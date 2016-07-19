@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 18](/log/2016-07-18.md) - Read: `tips` `life lessons` `notes` / Did: `college seminar preparation`
 - Day 17 - Did: `HIMYM`
 - [Day 16](/log/2016-07-16.md) - Read: `js` `anonymous function` / Did: `HIMYM`
 - [Day 15](/log/2016-07-15.md) - Did: `sistemas digitais` `siac` `Quantum Computers`
