@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 20 - Did: `web-design` `conscription`
 - Day 19 - Did: `web-design` `college seminar`
 - [Day 18](/log/2016-07-18.md) - Read: `tips` `life lessons` `notes` / Did: `college seminar preparation`
 - Day 17 - Did: `HIMYM`
