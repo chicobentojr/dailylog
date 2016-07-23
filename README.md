@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 22](/log/2016-07-22.md) - Read: `command line history` / Did: `sistemas digitais project`
 - Day 21 - Did: `internship` `sleep :)`
 - Day 20 - Did: `web-design` `conscription`
 - Day 19 - Did: `web-design` `college seminar`
