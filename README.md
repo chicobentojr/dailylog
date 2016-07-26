@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
-- [Day 25](/log/2016-07-25.md) - Read: `life lessons` `entrepreneur` `commitment` / Did: `HIMYM` `internship`
+- [Day 25](/log/2016-07-25.md) - Read: `life lessons` `entrepreneur` `jQuery` / Did: `HIMYM` `internship`
 - Day 24 - Did: `SNES: Zelda` `HIMYM`
 - [Day 23](/log/2016-07-23.md) - Read: `life lessons` `productivity` `js promises` / Did: `calendar` `SNES: Zelda`
 - [Day 22](/log/2016-07-22.md) - Read: `command line history` / Did: `sistemas digitais project`
