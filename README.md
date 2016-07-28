@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 27](/log/2016-07-27.md) - Read: `life lessons` `e-reader` `machine learning` `music` `entrepreneur` / Did: `brother's birthday`
 - [Day 26](/log/2016-07-26.md) - Read: `life lessons` `web-design-in-4` `data storage` `resumes`
 - [Day 25](/log/2016-07-25.md) - Read: `life lessons` `entrepreneur` `jQuery` / Did: `HIMYM` `internship`
 - Day 24 - Did: `SNES: Zelda` `HIMYM`
