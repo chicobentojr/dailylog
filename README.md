@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- [Day 31](/log/2016-07-31.md) - Read: `notebook` `sketches` / Did: `TV Alma Sebosa` `HIMYM` `SNES: Zelda`
 - [Day 30](/log/2016-07-30.md) - Did: `Observar e Absorver` `OBI tests` `SNES: Zelda` `HIMYM`
 - Day 29 - Did: `A Time to Kill` `Natal in chaos :x`
 - [Day 28](/log/2016-07-28.md) - Read: `hiring` `life lessons` `dreams` / Did: `OBI tests`
