@@ -15,7 +15,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 26](/log/2016-07-26.md) - Read: `life lessons` `web-design-in-4` `data storage` `resumes`
 - [Day 25](/log/2016-07-25.md) - Read: `life lessons` `entrepreneur` `jQuery` / Did: `HIMYM` `internship`
 - Day 24 - Did: `SNES: Zelda` `HIMYM`
-- [Day 23](/log/2016-07-23.md) - Read: `life lessons` `productivity` `js promises` / Did: `calendar` `SNES: Zelda`
+- [Day 23](/log/2016-07-23.md) - Read: `life lessons` `productivity` `js promises` / Did: `google calendar` `SNES: Zelda`
 - [Day 22](/log/2016-07-22.md) - Read: `command line history` / Did: `sistemas digitais project`
 - Day 21 - Did: `internship` `sleep :)`
 - Day 20 - Did: `web-design` `conscription`
