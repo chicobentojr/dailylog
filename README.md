@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Aug
+
+- Day 01 - Did: `HIMYM` `Dead Space` `no college`
+
 ### Jul
 
 - [Day 31](/log/2016-07-31.md) - Read: `notebook` `sketches` / Did: `TV Alma Sebosa` `HIMYM` `SNES: Zelda`
