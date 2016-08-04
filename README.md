@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
-- [Day 02](/log/2016-07-02.md) - Read: `Goddbye OO` `js explained` `life lessons` `entrepreneur` `carrer` `passions`  / Did: `HIMYM` `internship talk` `web-design` `no college`
+- [Day 03](/log/2016-07-03.md) - Read: `20 years old` `life lessons` `philosophy` / Did: `HIMYM` `web-design` `campus party recife signature` `google calendar`
+- [Day 02](/log/2016-07-02.md) - Read: `goodbye OO` `js explained` `life lessons` `entrepreneur` `carrer` `passions`  / Did: `HIMYM` `internship talk` `web-design` `no college`
 - Day 01 - Did: `HIMYM` `Dead Space` `no college`
 
 ### Jul
