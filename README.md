@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 06](/log/2016-07-06.md) - Read: `interview` / Did: `HIMYM` `Infamous` 
 - [Day 05](/log/2016-07-05.md) - Read: `interview` `employers` `entrepreneur` / Did: `HIMYM` `Infamous` `siac`
 - Day 04 - Did: `HIMYM` `Infamous` `boring afternoon :s` `siac`
 - [Day 03](/log/2016-07-03.md) - Read: `20 years old` `life lessons` `philosophy` / Did: `HIMYM` `web-design` `campus party recife signature` `google calendar`
