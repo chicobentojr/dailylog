@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 08](/log/2016-07-08.md) - Read: `life lessons` `bower` `asp.net` / Did: `siac` `college seminar preparation`
 - Day 07 - Did: `HIMYM finished :(` `Infamous` `gosu game`
 - [Day 06](/log/2016-07-06.md) - Read: `interview` / Did: `HIMYM` `Infamous`
 - [Day 05](/log/2016-07-05.md) - Read: `interview` `employers` `entrepreneur` / Did: `HIMYM` `Infamous` `siac`
