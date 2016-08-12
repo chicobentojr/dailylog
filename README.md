@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 11 - Did: `gosu game` `Better Call Saul` `siac` `IFRN games`
 - Day 10 - Did: `gosu game` `Better Call Saul` `siac` `afternoon in home :)`
 - Day 09 - Did: `gosu game` `Better Call Saul` `siac`
 - [Day 08](/log/2016-07-08.md) - Read: `life lessons` `bower` `asp.net` / Did: `siac` `college seminar preparation`
