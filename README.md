@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 13 - Did: `Suicide Squad` `chess: win 2x1`
 - Day 12 - Did: `siac` `IFRN games` `table tennis racket purchased :D`
 - Day 11 - Did: `gosu game` `Better Call Saul` `siac` `IFRN games`
 - Day 10 - Did: `gosu game` `Better Call Saul` `siac` `afternoon in home :)`
