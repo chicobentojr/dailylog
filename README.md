@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 14 - Did: `father's day` `Infamous` `chess: lost 0x2`
 - Day 13 - Did: `Suicide Squad` `chess: win 2x1`
 - Day 12 - Did: `siac` `IFRN games` `table tennis racket purchased :D`
 - Day 11 - Did: `gosu game` `Better Call Saul` `siac` `IFRN games`
