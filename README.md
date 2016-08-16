@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 15](/log/2016-07-15.md) - Read: `life lessons` `home office` `multitasking` `API` / Did: `siac` `gosu game`
 - Day 14 - Did: `father's day` `Infamous` `chess: lost 0x2`
 - Day 13 - Did: `Suicide Squad` `chess: win 2x1`
 - Day 12 - Did: `siac` `IFRN games` `table tennis racket purchased :D`
