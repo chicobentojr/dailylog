@@ -8,20 +8,20 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
-- [Day 15](/log/2016-07-15.md) - Read: `life lessons` `home office` `multitasking` `API` / Did: `siac` `gosu game`
+- [Day 15](/log/2016-08-15.md) - Read: `life lessons` `home office` `multitasking` `API` / Did: `siac` `gosu game`
 - Day 14 - Did: `father's day` `Infamous` `chess: lost 0x2`
 - Day 13 - Did: `Suicide Squad` `chess: win 2x1`
 - Day 12 - Did: `siac` `IFRN games` `table tennis racket purchased :D`
 - Day 11 - Did: `gosu game` `Better Call Saul` `siac` `IFRN games`
 - Day 10 - Did: `gosu game` `Better Call Saul` `siac` `afternoon in home :)`
 - Day 09 - Did: `gosu game` `Better Call Saul` `siac`
-- [Day 08](/log/2016-07-08.md) - Read: `life lessons` `bower` `asp.net` / Did: `siac` `college seminar preparation`
+- [Day 08](/log/2016-08-08.md) - Read: `life lessons` `bower` `asp.net` / Did: `siac` `college seminar preparation`
 - Day 07 - Did: `HIMYM finished :(` `Infamous` `gosu game`
-- [Day 06](/log/2016-07-06.md) - Read: `interview` / Did: `HIMYM` `Infamous`
-- [Day 05](/log/2016-07-05.md) - Read: `interview` `employers` `entrepreneur` / Did: `HIMYM` `Infamous` `siac`
+- [Day 06](/log/2016-08-06.md) - Read: `interview` / Did: `HIMYM` `Infamous`
+- [Day 05](/log/2016-08-05.md) - Read: `interview` `employers` `entrepreneur` / Did: `HIMYM` `Infamous` `siac`
 - Day 04 - Did: `HIMYM` `Infamous` `boring afternoon :s` `siac`
-- [Day 03](/log/2016-07-03.md) - Read: `20 years old` `life lessons` `philosophy` / Did: `HIMYM` `web-design` `campus party recife signature` `google calendar`
-- [Day 02](/log/2016-07-02.md) - Read: `goodbye OO` `js explained` `life lessons` `entrepreneur` `carrer` `passions`  / Did: `HIMYM` `internship talk` `web-design` `no college`
+- [Day 03](/log/2016-08-03.md) - Read: `20 years old` `life lessons` `philosophy` / Did: `HIMYM` `web-design` `campus party recife signature` `google calendar`
+- [Day 02](/log/2016-08-02.md) - Read: `goodbye OO` `js explained` `life lessons` `entrepreneur` `carrer` `passions`  / Did: `HIMYM` `internship talk` `web-design` `no college`
 - Day 01 - Did: `HIMYM` `Dead Space` `no college`
 
 ### Jul
