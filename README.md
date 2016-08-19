@@ -8,8 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 18](/log/2016-08-18.md) - Read: `movies` `psychiatric diseases` `trauma` / Did: `gosu game presentation`
 - Day 17 - Did: `siac` `gosu game` `happy day :)`
-- [Day 16](/log/2016-08-15.md) - Read: `politics` `life lessons` `say no` / Did: `siac` `gosu game`
+- [Day 16](/log/2016-08-16.md) - Read: `politics` `life lessons` `say no` / Did: `siac` `gosu game`
 - [Day 15](/log/2016-08-15.md) - Read: `life lessons` `home office` `multitasking` `API` / Did: `siac` `gosu game`
 - Day 14 - Did: `father's day` `Infamous` `chess: lost 0x2`
 - Day 13 - Did: `Suicide Squad` `chess: win 2x1`
