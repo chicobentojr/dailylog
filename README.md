@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
-- Day 20 - Did: `campus party recife`
+- Day 21 - Did: `Campus Party Recife`
+- Day 20 - Did: `Campus Party Recife`
 - Day 19 - Did: `no internship` `no college` `subway` `free day`
 - [Day 18](/log/2016-08-18.md) - Read: `movies` `psychiatric diseases` `trauma` / Did: `gosu game presentation`
 - Day 17 - Did: `siac` `gosu game` `happy day :)`
