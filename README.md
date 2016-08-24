@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 22 - Did: `college: github presentation`
 - Day 21 - Did: `Campus Party Recife`
 - Day 20 - Did: `Campus Party Recife`
 - Day 19 - Did: `no internship` `no college` `subway` `free day`
