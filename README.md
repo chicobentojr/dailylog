@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 23 - Did: `military enlistment` `table tennis :D` `free afternoon`
 - Day 22 - Did: `college: github presentation`
 - Day 21 - Did: `Campus Party Recife`
 - Day 20 - Did: `Campus Party Recife`
