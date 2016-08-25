@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 24](/log/2016-08-24.md) - Did: `boring day :s` `sick` `MVA: React`
 - Day 23 - Did: `military enlistment` `table tennis :D` `free afternoon`
 - Day 22 - Did: `college: github presentation`
 - Day 21 - Did: `Campus Party Recife`
