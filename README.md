@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 26 - Did: `MVA: React` `gosu game` `Infamous finished`
 - Day 25 - Did: `Infamous` `eat && sleep :D` `MVA: React`
 - [Day 24](/log/2016-08-24.md) - Did: `boring day :s` `sick` `MVA: React`
 - Day 23 - Did: `college's vacation started` `military enlistment` `table tennis :D` `free afternoon`
