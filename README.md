@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 29](/log/2016-08-29.md) - Read: `freelancer` `discipline` / Did: `internship` `IFRN` `Infamous 2`
 - [Day 28](/log/2016-08-28.md) - Read: `friendship` `Bel Pesce` `entrepreneur` `polemic` / Did: `godmother's house`
 - [Day 27](/log/2016-08-27.md) - Read: `React` `jQuery` / Did: `MVA: React finished` `gosu game`
 - Day 26 - Did: `MVA: React` `gosu game` `Infamous finished`
