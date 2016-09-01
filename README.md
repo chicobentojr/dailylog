@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- [Day 31](/log/2016-08-31.md) - Read: `breaking bad` / Did: `reactjs program` `Infamous 2`
 - [Day 30](/log/2016-08-30.md) - Read: `reactjs` `honesty` `love` `work` `entrepreneur` `polemic` / Did: `Inside Out` `Infamous 2` `FIFA 16`
 - [Day 29](/log/2016-08-29.md) - Read: `freelancer` `discipline` / Did: `internship` `IFRN` `Infamous 2` `FIFA 16`
 - [Day 28](/log/2016-08-28.md) - Read: `friendship` `Bel Pesce` `entrepreneur` `polemic` / Did: `godmother's house`
