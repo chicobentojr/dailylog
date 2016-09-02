@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Sep
+
+- [Day 01](/log/2016-09-01.md) - Read: `reactjs` `examples` / Did: `reactjs program` `Semadec: React`
+
 ### Aug
 
 - [Day 31](/log/2016-08-31.md) - Read: `breaking bad` / Did: `reactjs program` `Infamous 2`
