@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- [Day 06](/log/2016-09-06.md) - Read: `microcontroller` `mikroc` `LCD` / Did: `pre-maratona` `mikroc` `proteus` `Better Call Saul`
 - [Day 05](/log/2016-09-05.md) - Read: `microcontroller` `PIC18F4550` `C` `hardware` / Did: `c programming language`
 - [Day 04](/log/2016-09-04.md) - Read: `duvivier` `github` `life lessons` / Did: `fix VS2015 :D`
 - [Day 03](/log/2016-09-03.md) - Read: `life lessons` `js` `depression` `bel pesce` `impeachment` `remote work` `entrepreneur` / Did: `broke VS2015 :@`
