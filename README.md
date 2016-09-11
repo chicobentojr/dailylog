@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
-- Day 09 - Did: `C` `microcontroller finished :D` `home offline :/` 
+- Day 10 - Did: `International Collegiate Programming Contest` `internet is back :D` 
+- Day 09 - Did: `C` `microcontroller finished :D` `internet is gone :/` 
 - Day 08 - Did: `microcontroller` `friends time` `pre-maratona`
 - [Day 07](/log/2016-09-07.md) - Read: `LCD` `PIC18F4550` / Did: `microcontroller` `holiday` `Better Call Saul`
 - [Day 06](/log/2016-09-06.md) - Read: `microcontroller` `mikroc` `LCD` / Did: `pre-maratona` `mikroc` `proteus` `Better Call Saul`
