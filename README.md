@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- [Day 12](/log/2016-09-12.md) - Read: `gregorio & clarice` / Did: `college's vacation finished`
 - [Day 11](/log/2016-09-11.md) - Read: `time travel` `donnie darko` `himym` / Did: `Donnie Darko` `HIMYM moments :'(`
 - Day 10 - Did: `International Collegiate Programming Contest` `internet is back :D`
 - Day 09 - Did: `C` `microcontroller finished :D` `internet is gone :/`
