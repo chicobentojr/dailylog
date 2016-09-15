@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- Day 14 - Did: `PIC18F4520` `projeto siac`
 - Day 13 - Did: `PIC18F4520`
 - [Day 12](/log/2016-09-12.md) - Read: `gregorio & clarice` / Did: `college's vacation finished`
 - [Day 11](/log/2016-09-11.md) - Read: `time travel` `donnie darko` `himym` / Did: `Donnie Darko` `HIMYM moments :'(`
