@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- Day 17 - Did: `PIC18F4520` `work` `sleep` `HIMYM review`
 - Day 16 - Did: `PIC18F4520`
 - Day 15 - Did: `PIC18F4520`
 - Day 14 - Did: `PIC18F4520` `projeto siac`
