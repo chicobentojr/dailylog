@@ -8,8 +8,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
-
-- [Day 18](/log/2016-09-18.md) - Read: `racism` / Did: `Liberal Arts` `IHC` `compiler`
+- Day 21 - Did: `compiler presentation`
+- Day 20 - Did: `english's certification` `work` `college` `bad traffic :#`
+- [Day 19](/log/2016-09-19.md) - Read: `arduino` `radio` `wireless` `NRF24L01` / Did: `work` `college`
+- [Day 18](/log/2016-09-18.md) - Read: `racism` / Did: `Liberal Arts` `IHC study` `compiler`
 - Day 17 - Did: `PIC18F4520` `work` `sleep` `HIMYM review`
 - Day 16 - Did: `PIC18F4520`
 - Day 15 - Did: `PIC18F4520`
