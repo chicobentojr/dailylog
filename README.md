@@ -8,6 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+
+- Day 24 - Did: `MADA Festival`
 - Day 23 - Did: `MADA Festival`
 - Day 21 - Did: `compiler presentation`
 - Day 20 - Did: `english's certification` `work` `college` `bad traffic :#`
