@@ -8,9 +8,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
-
+- Day 25 - Did: `shopping`
 - Day 24 - Did: `MADA Festival`
 - Day 23 - Did: `MADA Festival`
+
 - Day 21 - Did: `compiler presentation`
 - Day 20 - Did: `english's certification` `work` `college` `bad traffic :#`
 - [Day 19](/log/2016-09-19.md) - Read: `arduino` `radio` `wireless` `NRF24L01` / Did: `work` `college`
