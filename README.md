@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- Day 26 - Did: `FIFA 16`
 - Day 25 - Did: `shopping`
 - Day 24 - Did: `MADA Festival`
 - Day 23 - Did: `MADA Festival`
