@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- Day 28 - Did: `college` `work`
 - Day 27 - Did: `FIFA 16`
 - Day 26 - Did: `FIFA 16` `IHC certification test`
 - Day 25 - Did: `shopping`
