@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Oct
+
+- Day 01 - Did: `The Art of Getting By` `organize dailylog` `FIFA 16` `drawing`
+
 ### Sep
 
 - Day 30 - Did: `military oath` `no classes` `no work` `free afternoon`
