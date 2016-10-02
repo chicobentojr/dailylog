@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Sep
 
+- Day 30 - Did: `military oath` `no classes` `no work` `free afternoon`
 - Day 29 - Did: `college` `work` `political debate`
 - Day 28 - Did: `college` `work`
 - Day 27 - Did: `FIFA 16`
