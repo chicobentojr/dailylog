@@ -12,10 +12,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 28 - Did: `college` `work`
 - Day 27 - Did: `FIFA 16`
 - Day 26 - Did: `FIFA 16` `IHC certification test`
-- Day 25 - Did: `shopping`
+- [Day 25](/log/2016-09-25.md) - Read: `friends` `cheap rides` / Did: `shopping`
 - Day 24 - Did: `MADA Festival`
 - Day 23 - Did: `MADA Festival`
-
+- Day 22 - Did: `no college` `free day at home`
 - Day 21 - Did: `compiler presentation`
 - Day 20 - Did: `english's certification` `work` `college` `bad traffic :#`
 - [Day 19](/log/2016-09-19.md) - Read: `arduino` `radio` `wireless` `NRF24L01` / Did: `work` `college`
