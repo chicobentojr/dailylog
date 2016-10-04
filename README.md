@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 03 - Did: `holiday` `50/50` `FIFA 16` `organize github` `college activities`
 - [Day 02](/log/2016-10-02.md) - Read: `new generation` `selfishness` `egocentric` / Did: `FIFA 16` `drawing` `Her` `election day`
 - Day 01 - Did: `The Art of Getting By` `organize dailylog` `FIFA 16` `drawing`
 
