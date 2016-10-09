@@ -8,6 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 07 - Did: `college` `algoritmos` `arquitetura de computadores` `brother's girlfriend's birthday`
+- Day 06 - Did: `no classes` `arquitetura de computadores`
 - Day 05 - Did: `college` `arquitetura de computadores` `arduino radio NRF24L01`
 - Day 04 - Did: `english's certification result` `college` `boring day :s`
 - Day 03 - Did: `holiday` `50/50` `FIFA 16` `organize github` `college activities`
