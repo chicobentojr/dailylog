@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 09 - Did: `read \o/` `arquitetura de computadores` `algoritmos`
 - Day 08 - Did: `work`
 - Day 07 - Did: `college` `algoritmos` `arquitetura de computadores` `brother's girlfriend's birthday`
 - Day 06 - Did: `no classes` `arquitetura de computadores`
