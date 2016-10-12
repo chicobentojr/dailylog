@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 10 - Did: `college` `field radio tests`
 - Day 09 - Did: `read \o/` `arquitetura de computadores` `algoritmos`
 - Day 08 - Did: `work`
 - Day 07 - Did: `college` `algoritmos` `arquitetura de computadores` `brother's girlfriend's birthday`
