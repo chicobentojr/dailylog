@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 12 - Did: `holiday` `FIFA 17` `PIC18F4620`
 - Day 11 - Did: `no classes` `work all day` `finish base project`
 - Day 10 - Did: `college` `field radio tests`
 - Day 09 - Did: `read \o/` `arquitetura de computadores` `algoritmos`
