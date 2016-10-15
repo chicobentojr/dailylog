@@ -8,10 +8,12 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 14 - Read: `O Rio do Meio` / Did: `arquitetura de computadores presentation` `algoritmos activity` `work` 
+- Day 13 - Read: `Alice Through the Looking Glass` / Did: `OOP's certification` `work`
 - Day 12 - Did: `holiday` `FIFA 17` `PIC18F4620`
 - Day 11 - Did: `no classes` `work all day` `finish base project`
 - Day 10 - Did: `college` `field radio tests`
-- Day 09 - Did: `read \o/` `arquitetura de computadores` `algoritmos`
+- Day 09 - Read: `Alice Through the Looking Glass` / Did: `read \o/` `arquitetura de computadores` `algoritmos`
 - Day 08 - Did: `work`
 - Day 07 - Did: `college` `algoritmos` `arquitetura de computadores` `brother's girlfriend's birthday`
 - Day 06 - Did: `no classes` `arquitetura de computadores`
