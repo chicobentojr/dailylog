@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 17 - Read: `O Rio do Meio` / Did: `algoritmos` `work`
 - Day 16 - Did: `PIC18F4620` `cake with brother :9`
 - Day 15 - Read: `O Rio do Meio` / Did: `work` `friends and hot dog :D`
 - Day 14 - Read: `O Rio do Meio` / Did: `arquitetura de computadores presentation` `algoritmos activity` `work`
