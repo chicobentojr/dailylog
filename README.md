@@ -9,9 +9,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 ### Oct
 
 - Day 16 - Did: `PIC18F4620` `cake with brother :9`
-- Day 15 - Read: `O Rio do Meio` / Did: `work` `friends and hot dog :D` 
-- Day 14 - Read: `O Rio do Meio` / Did: `arquitetura de computadores presentation` `algoritmos activity` `work` 
-- Day 13 - Read: `Alice Through the Looking Glass` / Did: `OOP's certification` `work`
+- Day 15 - Read: `O Rio do Meio` / Did: `work` `friends and hot dog :D`
+- Day 14 - Read: `O Rio do Meio` / Did: `arquitetura de computadores presentation` `algoritmos activity` `work`
+- [Day 13](/log/2016-10-13.md) - Read: `Alice Through the Looking Glass` `GSM & GPRS` `SIM800` `SIM900` `Arduino` `MQTT` `internet` / Did: `OOP's certification` `work`
 - Day 12 - Did: `holiday` `FIFA 17` `PIC18F4620`
 - Day 11 - Did: `no classes` `work all day` `finish base project`
 - Day 10 - Did: `college` `field radio tests`
