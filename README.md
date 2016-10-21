@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 19 - Read: `Freud for Beginners` / Did: `college` `visit to a friend`
 - Day 18 - Read: `O Rio do Meio finished` / Did: `college` `work project finished`
 - Day 17 - Read: `O Rio do Meio` / Did: `algoritmos` `work`
 - Day 16 - Did: `PIC18F4620` `cake with brother :9`
