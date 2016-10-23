@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- [Day 22](/log/2016-10-22.md) - Did: `FIFA 17` `sleep all day :s` `A vida que vale a pena │ Clóvis de Barros`
 - Day 21 - Did: `Code Girl 4`
 - Day 20 - Did: `no classes` `work` `ESP8266` `MQTT` `carrefour conversation`
 - Day 19 - Read: `Freud for Beginners` / Did: `college` `visit to a friend`
