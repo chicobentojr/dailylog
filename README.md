@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Did: `Lana's birthday`
 - Day 23 - Read: `Freud for Beginners` / Did: `Prisoners`
 - [Day 22](/log/2016-10-22.md) - Did: `FIFA 17` `sleep all day :s` `A vida que vale a pena │ Clóvis de Barros`
 - Day 21 - Did: `Code Girl 4`
