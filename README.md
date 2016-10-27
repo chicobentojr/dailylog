@@ -8,7 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
-- Day 24 - Did: `ESP8266 with AppHarbor` `friend's birthday`
+- Day 26 - Read: `Freud for Beginners finished` / Did: `college` `work meeting` `Portugol Studio`
+- Day 25 - Did: `no college` `friend's house` `mimicry` `helping friend` `Portugol Studio`
+- Day 24 - Did: `no college` `ESP8266 with AppHarbor` `friend's birthday`
 - [Day 23](/log/2016-10-23.md) - Read: `Freud for Beginners` `life lessons` `algorithm` `big data` `Hadoop` `MapReduce` `data structure` `data scientist` / Did: `Prisoners` `Qual é a tua obra? | Mário Sérgio Cortella`
 - [Day 22](/log/2016-10-22.md) - Did: `FIFA 17` `sleep all day :s` `A vida que vale a pena │ Clóvis de Barros`
 - Day 21 - Did: `Code Girl 4`
