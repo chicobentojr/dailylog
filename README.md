@@ -8,8 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
-- Day 28 - Did: `no college` `friend's house` `Lucy`
-- [Day 27](/log/2016-10-27.md) - Read: `MQTT` `paho` `python` `ifzn` `IoT` `crab` / Did: `Portugol Studio` `no classes`
+- Day 29 - Did: `minefield` `Jessica Jones` 
+- Day 28 - Did: `no college` `tic tac toe` `friend's house` `Lucy`
+- [Day 27](/log/2016-10-27.md) - Read: `MQTT` `paho` `python` `ifzn` `IoT` `crab` / Did: `Portugol Studio` `no classes` `tic tac toe`
 - Day 26 - Read: `Freud for Beginners finished` / Did: `college` `work meeting` `Portugol Studio`
 - Day 25 - Did: `no college` `friend's house` `mimicry` `helping friend` `Portugol Studio`
 - Day 24 - Did: `no college` `ESP8266 with AppHarbor` `friend's birthday`
