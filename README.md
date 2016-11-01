@@ -8,6 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Oct
 
+- Day 31 - Did: `minefield & tic tac toe presentation` `college project meeting` `work meeting`
+- Day 30 - Did: `minefield` `Jessica Jones`
 - Day 29 - Did: `minefield` `Jessica Jones` 
 - Day 28 - Did: `no college` `tic tac toe` `friend's house` `Lucy`
 - [Day 27](/log/2016-10-27.md) - Read: `MQTT` `paho` `python` `ifzn` `IoT` `crab` / Did: `Portugol Studio` `no classes` `tic tac toe`
