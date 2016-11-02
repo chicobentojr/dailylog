@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Nov
+
+- Day 01 - Did: `college` `work meeting` `ESP8266` `Arduino` `Redux`
+
 ### Oct
 
 - Day 31 - Did: `minefield & tic tac toe presentation` `college project meeting` `work meeting`
