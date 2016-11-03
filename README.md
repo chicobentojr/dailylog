@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- Day 02 - Did: `holiday` 
 - Day 01 - Did: `college` `work meeting` `ESP8266` `Arduino` `Redux`
 
 ### Oct
