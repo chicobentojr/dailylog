@@ -8,14 +8,14 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
-- Day 02 - Did: `holiday` 
-- Day 01 - Did: `college` `work meeting` `ESP8266` `Arduino` `Redux`
+- [Day 02](/log/2016-11-02.md) - Read: `ESP8266` `PIC` `React/Redux structure` / Did: `holiday` `work meeting` `ESP8266` `PIC` `Redux Getting Started`
+- [Day 01](/log/2016-11-01.md) - Did: `college` `work meeting` `ESP8266` `Arduino` `FIFA 17` `Redux Getting Started`
 
 ### Oct
 
 - Day 31 - Did: `minefield & tic tac toe presentation` `college project meeting` `work meeting`
 - Day 30 - Did: `minefield` `Jessica Jones`
-- Day 29 - Did: `minefield` `Jessica Jones` 
+- Day 29 - Did: `minefield` `Jessica Jones`
 - Day 28 - Did: `no college` `tic tac toe` `friend's house` `Lucy`
 - [Day 27](/log/2016-10-27.md) - Read: `MQTT` `paho` `python` `ifzn` `IoT` `crab` / Did: `Portugol Studio` `no classes` `tic tac toe`
 - Day 26 - Read: `Freud for Beginners finished` / Did: `college` `work meeting` `Portugol Studio`
