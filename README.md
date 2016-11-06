@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- [Day 05](/log/2016-11-05.md) - Read: `life lessons` `react` `redux` `code property` / Did: `afternoon with friend`
 - Day 04 - Did: `algoritmos test` `work meeting` `afternoon with friends` `açaí`
 - Day 03 - Did: `college project meeting` `work meeting` `react & echarts`
 - [Day 02](/log/2016-11-02.md) - Read: `ESP8266` `PIC` `React/Redux structure` / Did: `holiday` `work meeting` `ESP8266` `PIC` `Redux Getting Started`
