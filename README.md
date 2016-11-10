@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- [Day 09](/log/2016-11-09.md) - Read: `Frankenstein` `EEPROM` / Did: `expotec 2° day`
 - Day 08 - Did: `Frankenstein` `college` `expotec 1° day` `Inferno`
 - [Day 07](/log/2016-11-07.md) - Read: `Frankenstein` `react patterns` `life lessons` / Did: `college` `work meeting`
 - [Day 06](/log/2016-11-06.md) - Read: `redux` / Did: `react & redux`
