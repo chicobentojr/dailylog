@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- Day 13 - Did: `Frankenstein` `wireframes`
 - Day 12 - Did: `Frankenstein` `wireframes`
 - Day 11 - Did: `Frankenstein` `no college` `work meeting` `wireframes`
 - [Day 10](/log/2016-11-10.md) - Read: `full stack frameworks` / Did: `expotec 3° day`
