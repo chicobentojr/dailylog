@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- Day 15 - Did: `Frankenstein` `vacation`
 - Day 14 - Did: `Frankenstein` `no college` `work meeting` `super moon`
 - Day 13 - Did: `Frankenstein` `wireframes`
 - Day 12 - Did: `Frankenstein` `wireframes`
