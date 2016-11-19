@@ -8,16 +8,17 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
-- Day 17 - Did: `Frankenstein finished` `no classes` `work meeting` `Doctor Strange` 
-- Day 16 - Did: `Frankenstein` `college` `work meeting`
-- Day 15 - Did: `Frankenstein` `holiday` `The Wave`
-- Day 14 - Did: `Frankenstein` `no college` `work meeting` `super moon`
-- Day 13 - Did: `Frankenstein` `wireframes`
-- Day 12 - Did: `Frankenstein` `wireframes`
-- Day 11 - Did: `Frankenstein` `no college` `work meeting` `wireframes`
+- Day 18 - Did: `college` `work meeting` `afternoon with friends` `Fantastic Beasts and Where to Find Them`
+- Day 17 - Read: `Frankenstein finished` / Did: `no classes` `work meeting` `Doctor Strange` 
+- Day 16 - Read: `Frankenstein` / Did: `college` `work meeting`
+- Day 15 - Read: `Frankenstein` / Did: `holiday` `The Wave`
+- Day 14 - Read: `Frankenstein` / Did: `no college` `work meeting` `super moon`
+- Day 13 - Read: `Frankenstein` / Did: `wireframes`
+- Day 12 - Read: `Frankenstein` / Did: `wireframes`
+- Day 11 - Read: `Frankenstein` / Did: `no college` `work meeting` `wireframes`
 - [Day 10](/log/2016-11-10.md) - Read: `full stack frameworks` / Did: `expotec 3° day`
 - [Day 09](/log/2016-11-09.md) - Read: `Frankenstein` `EEPROM` / Did: `expotec 2° day`
-- Day 08 - Did: `Frankenstein` `college` `expotec 1° day` `Inferno`
+- Day 08 - Read: `Frankenstein` / Did: `college` `expotec 1° day` `Inferno`
 - [Day 07](/log/2016-11-07.md) - Read: `Frankenstein` `react patterns` `life lessons` / Did: `college` `work meeting`
 - [Day 06](/log/2016-11-06.md) - Read: `redux` / Did: `react & redux`
 - [Day 05](/log/2016-11-05.md) - Read: `life lessons` `react` `redux` `code property` / Did: `afternoon with friend`
