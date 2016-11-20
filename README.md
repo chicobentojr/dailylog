@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- Day 19 - Read: `Harry Potter and the Order of the Phoenix` / Did: `home`
 - Day 18 - Did: `college` `work meeting` `afternoon with friends` `Fantastic Beasts and Where to Find Them`
 - Day 17 - Read: `Frankenstein finished` / Did: `no classes` `work meeting` `Doctor Strange` 
 - Day 16 - Read: `Frankenstein` / Did: `college` `work meeting`
