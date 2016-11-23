@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- Day 22 - Read: `Harry Potter and the Order of the Phoenix` / Did: `college` `work meeting` `Kindle bought`
 - Day 21 - Did: `holiday` `beach`
 - Day 20 - Read: `Harry Potter and the Order of the Phoenix` / Did: `godmother's house`
 - Day 19 - Read: `Harry Potter and the Order of the Phoenix` / Did: `home`
