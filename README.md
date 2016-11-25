@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
-- Day 23 - Read: `Harry Potter and the Order of the Phoenix` / Did: `no college` `home` `FIFA 17`
+- [Day 23](/log/2016-11-23.md) - Read: `Harry Potter and the Order of the Phoenix` `performance` `working` / Did: `no college` `home` `FIFA 17`
 - Day 22 - Read: `Harry Potter and the Order of the Phoenix` / Did: `college` `work meeting` `Kindle bought`
 - Day 21 - Did: `holiday` `beach`
 - Day 20 - Read: `Harry Potter and the Order of the Phoenix` / Did: `godmother's house`
