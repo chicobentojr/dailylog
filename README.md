@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
+- Day 27 - Read: `Harry Potter and the Order of the Phoenix finished` / Did: `mother's birthday`
 - Day 26 - Read: `Harry Potter and the Order of the Phoenix` / Did: `home`
 - Day 25 - Read: `Harry Potter and the Order of the Phoenix` / Did: `college` `work meeting`
 - Day 24 - Read: `Harry Potter and the Order of the Phoenix` / Did: `no college` `home` `FIFA 17`
