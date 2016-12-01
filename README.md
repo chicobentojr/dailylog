@@ -8,7 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Nov
 
-- Day 28 - Did: `college`
+- Day 30 - Read: `Harry Potter and the Half-Blood Prince` / Did: `college` `work` `Arduino Mega` `PIC18F4620`
+- Day 29 - Read: `Harry Potter and the Half-Blood Prince` / Did: `college` `lonely afternoon`
+- Day 28 - Read: `Harry Potter and the Half-Blood Prince` / Did: `college` `free afternoon`
 - Day 27 - Read: `Harry Potter and the Order of the Phoenix finished` / Did: `mother's birthday`
 - Day 26 - Read: `Harry Potter and the Order of the Phoenix` / Did: `home`
 - Day 25 - Read: `Harry Potter and the Order of the Phoenix` / Did: `college` `work meeting`
