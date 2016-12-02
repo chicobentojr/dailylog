@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2016
 
+### Dec
+
+- Day 01 - Did: `no classes` `work` `Serial - SoftSerial`
+
 ### Nov
 
 - Day 30 - Read: `Harry Potter and the Half-Blood Prince` / Did: `college` `work` `Arduino Mega` `PIC18F4620`
