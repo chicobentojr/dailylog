@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- [Day 03](/log/2016-12-03.md) - Read: `Harry Potter and the Half-Blood Prince` `life lessons` `kindness` / Did: `requirement analysis`
 - Day 02 - Read: `Harry Potter and the Half-Blood Prince` / Did: `college` `work` `Serial` `UART`
 - Day 01 - Did: `no classes` `work` `Serial - SoftSerial`
 
