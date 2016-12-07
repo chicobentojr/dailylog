@@ -8,6 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 06 - Did: `college` `english test` `work meeting` `friends at bus stop`
+- Day 05 - Read: `Harry Potter and the Half-Blood Prince finished` / Did: `college` `PS4 fraud` `english activity`
 - Day 04 - Read: `Harry Potter and the Half-Blood Prince` / Did: `pottermore test` `english activity`
 - [Day 03](/log/2016-12-03.md) - Read: `Harry Potter and the Half-Blood Prince` `life lessons` `kindness` / Did: `requirement analysis`
 - Day 02 - Read: `Harry Potter and the Half-Blood Prince` / Did: `college` `work` `Serial` `UART`
