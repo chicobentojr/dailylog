@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 07 - Read: `Harry Potter and the Deathly Hallows` / Did: `college` `computer network test` `work`
 - Day 06 - Did: `college` `english test` `work meeting` `friends at bus stop`
 - Day 05 - Read: `Harry Potter and the Half-Blood Prince finished` / Did: `college` `PS4 fraud` `english activity`
 - Day 04 - Read: `Harry Potter and the Half-Blood Prince` / Did: `pottermore test` `english activity`
