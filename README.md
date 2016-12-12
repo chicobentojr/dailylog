@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 11 - Read: `Harry Potter and the Deathly Hallows` / Did: `algorithms activity: stack`
 - Day 10 - Read: `Harry Potter and the Deathly Hallows` / Did: `work all day` `firmware base functions`
 - Day 09 - Read: `Harry Potter and the Deathly Hallows` / Did: `college` `lunch with friends` `firmware tests`
 - Day 08 - Read: `Harry Potter and the Deathly Hallows` / Did: `no classes` `home` `firmware`
