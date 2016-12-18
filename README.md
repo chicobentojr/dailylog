@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 17 - Read: `Harry Potter and the Cursed Child finished` / Did: `ceara mirim` `pipa`
 - Day 16 - Read: `Harry Potter and the Deathly Hallows finished` / Did: `college` `communication tests`
 - Day 15 - Read: `Harry Potter and the Deathly Hallows` / Did: `no classes` `firmware tests`
 - Day 14 - Read: `Harry Potter and the Deathly Hallows` / Did: `college` `firmware updates` `no tests`
