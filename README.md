@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 19 - Read: `Room` / Did: `no classes` `work` `afternoon with friend`
 - Day 18 - Read: `Room` / Did: `ceara mirim` `home`
 - Day 17 - Read: `Harry Potter and the Cursed Child finished` / Did: `ceara mirim` `amigo secreto` `family`
 - Day 16 - Read: `Harry Potter and the Deathly Hallows finished` / Did: `college` `communication tests`
