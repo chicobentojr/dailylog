@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
-- Day 24 - Read: `Room` / Did: `christmas`
+- Day 25 - Read: `Room` / Did: `family lunch` `christmas`
+- Day 24 - Read: `Room` / Did: `family dinner`
 - Day 23 - Did: `no college` `field test`
 - Day 22 - Read: `Room` / Did: `no classes` `work` `firmware problem` `afternoon with friend`
 - Day 21 - Read: `Room` / Did: `college` `pong's static scenario presentation` `work` `tests`
