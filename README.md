@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
-
+- Day 26 - Did: `credit card` `afternoon with friends`
 - Day 26 - Read: `Room finished` / Did: `Room` `home`
 - Day 25 - Read: `Room` / Did: `family lunch` `christmas`
 - Day 24 - Read: `Room` / Did: `family dinner`
