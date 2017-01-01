@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 31 - Did: `field tests`
 - Day 30 - Did: `home office` `afternoon with friends`
 - Day 29 - Did: `work meeting` `office chair`
 - Day 28 - Did: `Sing` `afternoon with friends`
