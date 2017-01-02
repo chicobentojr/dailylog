@@ -4,6 +4,12 @@ A little bit of my day
 
 Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
+## 2017
+
+### Jan
+
+- Day 01 - Did: `new year!` `sleep a lot` `work fix bugs`
+
 ## 2016
 
 ### Dec
