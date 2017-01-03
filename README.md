@@ -8,13 +8,13 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
-- Day 01 - Did: `new year!` `sleep a lot` `work fix bugs`
+- Day 01 - Did: `New Year!` `sleep a lot` `work fix bugs`
 
 ## 2016
 
 ### Dec
 
-- Day 31 - Did: `field tests`
+- Day 31 - Did: `2016's last day` `field tests` `beach` `Ponta Negra`
 - Day 30 - Did: `home office` `afternoon with friends`
 - Day 29 - Did: `work meeting` `office chair`
 - Day 28 - Did: `Sing` `afternoon with friends`
@@ -61,7 +61,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 20 - Read: `Harry Potter and the Order of the Phoenix` / Did: `godmother's house`
 - Day 19 - Read: `Harry Potter and the Order of the Phoenix` / Did: `home`
 - Day 18 - Did: `college` `work meeting` `afternoon with friends` `Fantastic Beasts and Where to Find Them`
-- Day 17 - Read: `Frankenstein finished` / Did: `no classes` `work meeting` `Doctor Strange` 
+- Day 17 - Read: `Frankenstein finished` / Did: `no classes` `work meeting` `Doctor Strange`
 - Day 16 - Read: `Frankenstein` / Did: `college` `work meeting`
 - Day 15 - Read: `Frankenstein` / Did: `holiday` `The Wave`
 - Day 14 - Read: `Frankenstein` / Did: `no college` `work meeting` `super moon`
