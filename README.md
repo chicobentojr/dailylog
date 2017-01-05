@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 03 - Did: `driving school`
 - Day 02 - Did: `driving school` `work: update field code`
 - Day 01 - Did: `New Year!` `sleep a lot` `work fix bugs`
 
