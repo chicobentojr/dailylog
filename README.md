@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
-- Day 05 - Did: `driving school`
+- Day 06 - Did: `driving school` `church` `pizza` `Documentario Falcão - Meninos do Tráfico`
+- Day 05 - Did: `driving school` `miss class`
 - Day 04 - Did: `driving school`
 - Day 03 - Did: `driving school`
 - Day 02 - Did: `driving school` `work: update field code`
