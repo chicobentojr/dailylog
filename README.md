@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 09 - Did: `driving school` `8 Mile`
 - Day 08 - Did: `family's lunch` `deck of cards` `A Beautiful Mind`
 - Day 07 - Did: `Black Swan` `friend's house`
 - Day 06 - Did: `driving school` `church` `pizza` `Documentario Falcão - Meninos do Tráfico`
