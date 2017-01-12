@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 11 - Read: `The Perks of Being a Wallflower finished` / Did: `driving theory test` `Corpse Bride`
 - Day 10 - Read: `The Perks of Being a Wallflower` / Did: `driving school` `Innsaei` `Shutter Island`
 - Day 09 - Did: `driving school` `8 Mile`
 - Day 08 - Did: `family's lunch` `deck of cards` `A Beautiful Mind`
