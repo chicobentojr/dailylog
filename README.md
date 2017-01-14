@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 13 - Read: `Queria ver você feliz` / Did: `driving simulator school` `afternoon with friends` `Zodiac`
 - Day 12 - Read: `O Retorno de Saturno finished` / Did: `driving simulator school` `The Perks of Being a Wallflower`
 - Day 11 - Read: `The Perks of Being a Wallflower finished` / Did: `driving theory test` `Corpse Bride`
 - Day 10 - Read: `The Perks of Being a Wallflower` / Did: `driving school` `Innsaei` `Shutter Island`
