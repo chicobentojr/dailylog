@@ -8,13 +8,14 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 14 - Read: `Queria ver você feliz finished` / Did: `afternoon with friends` `presents` `Amour`
 - Day 13 - Read: `Queria ver você feliz` / Did: `driving simulator school` `afternoon with friends` `Zodiac`
 - Day 12 - Read: `O Retorno de Saturno finished` / Did: `driving simulator school` `The Perks of Being a Wallflower`
 - Day 11 - Read: `The Perks of Being a Wallflower finished` / Did: `driving theory test` `Corpse Bride`
 - Day 10 - Read: `The Perks of Being a Wallflower` / Did: `driving school` `Innsaei` `Shutter Island`
 - Day 09 - Did: `driving school` `8 Mile`
 - Day 08 - Did: `family's lunch` `deck of cards` `A Beautiful Mind`
-- Day 07 - Did: `Black Swan` `friend's house`
+- Day 07 - Did: `friend's house` `Black Swan`
 - Day 06 - Did: `driving school` `church` `pizza` `Documentario Falcão - Meninos do Tráfico`
 - Day 05 - Did: `driving school` `miss class`
 - Day 04 - Did: `driving school`
