@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 15 - Read: `The Metamorphosis finished` `Millennium I` / Did: `Eu Não Faço a Menor Ideia do que eu Tô Fazendo Com a Minha Vida`
 - Day 14 - Read: `Queria ver você feliz finished` / Did: `afternoon with friends` `presents` `Amour`
 - Day 13 - Read: `Queria ver você feliz` / Did: `driving simulator school` `afternoon with friends` `Zodiac`
 - Day 12 - Read: `O Retorno de Saturno finished` / Did: `driving simulator school` `The Perks of Being a Wallflower`
