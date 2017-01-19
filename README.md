@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
-- Day 17 - Read: `Millennium I` / Did: `credit in bus card` `Captain Fantastic`
+- Day 18 - Read: `Millennium I` / Did: `afternoon with friends` `game station`
+- Day 17 - Read: `Millennium I` / Did: `driving simulator school` `credit in bus card` `Captain Fantastic`
 - Day 16 - Read: `Millennium I` / Did: `driving simulator school` `work meeting` `friend's birthday` `pizza`
 - Day 15 - Read: `The Metamorphosis finished` `Millennium I` / Did: `Eu Não Faço a Menor Ideia do que eu Tô Fazendo Com a Minha Vida`
 - Day 14 - Read: `Queria ver você feliz finished` / Did: `afternoon with friends` `presents` `Amour`
