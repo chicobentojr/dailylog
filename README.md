@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 20 - Read: `Millennium I finished` / Did: `driving school` `Nightcrawler`
 - Day 19 - Read: `Millennium I` / Did: `driving school` `Arrival`
 - Day 18 - Read: `Millennium I` / Did: `afternoon with friends` `game station`
 - Day 17 - Read: `Millennium I` / Did: `driving simulator school` `credit in bus card` `Captain Fantastic`
