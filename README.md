@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 23 - Read: `Millennium II` / Did: `college's vacation finished` `miss college` `driving school`
 - Day 22 - Read: `Millennium II` / Did: `The Fundamentals of Caring`
 - Day 21 - Read: `Millennium II` / Did: `(500) Days of Summer`
 - Day 20 - Read: `Millennium I finished` / Did: `driving school` `Nightcrawler`
