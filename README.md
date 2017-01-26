@@ -9,8 +9,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 ### Jan
 
 - Day 25 - Did: `college` `driving school` `pong game`
-- Day 24 - Read: `Millennium II finished` / Did: `miss college` `driving school` `pong game`
-- Day 23 - Read: `Millennium II` / Did: `college's vacation finished` `miss college` `driving school`
+- Day 24 - Read: `Millennium II finished` / Did: `skip class` `driving school` `pong game`
+- Day 23 - Read: `Millennium II` / Did: `college's vacation finished` `skip class` `driving school`
 - Day 22 - Read: `Millennium II` / Did: `The Fundamentals of Caring`
 - Day 21 - Read: `Millennium II` / Did: `(500) Days of Summer`
 - Day 20 - Read: `Millennium I finished` / Did: `driving school` `Nightcrawler`
