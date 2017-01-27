@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jan
 
+- Day 26 - Read: `Millennium III` / Did: `no class` `driving school` `Source Code`
 - Day 25 - Did: `college` `driving school` `pong game`
 - Day 24 - Read: `Millennium II finished` / Did: `skip class` `driving school` `pong game`
 - Day 23 - Read: `Millennium II` / Did: `college's vacation finished` `skip class` `driving school`
