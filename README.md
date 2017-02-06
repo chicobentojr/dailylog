@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 05 - Read: `Millennium III` / Did: `godmother's house`
 - Day 04 - Read: `Millennium III` / Did: `Avatar Korra: season III & IV`
 - Day 03 - Read: `Millennium III` / Did: `driving test` `college` `Avatar Korra: season III`
 - Day 02 - Read: `Millennium III` / Did: `no classes` `schedule driving test` `Avatar Korra: season III`
