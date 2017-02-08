@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 07 - Read: `Millennium III` / Did: `college` `research project`
 - Day 06 - Read: `Millennium III` / Did: `college` `research project meeting`
 - Day 05 - Read: `Millennium III` / Did: `godmother's house`
 - Day 04 - Read: `Millennium III` / Did: `Avatar Korra: season III & IV`
