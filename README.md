@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 10 - Read: `Millennium IV` / Did: `college` `job interview` `volleyball` `birthday`
 - Day 09 - Read: `Millennium III finished` / Did: `no college`
 - Day 08 - Read: `Millennium III` / Did: `college` `afternoon with friends`
 - Day 07 - Read: `Millennium III` / Did: `college` `research project`
