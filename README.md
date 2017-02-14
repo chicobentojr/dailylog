@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 13 - Did: `no classes` `php` `laravel`
 - Day 12 - Did: `php` `laravel`
 - Day 11 - Did: `La La Land`
 - Day 10 - Read: `Millennium IV` / Did: `college` `job interview` `volleyball` `birthday`
