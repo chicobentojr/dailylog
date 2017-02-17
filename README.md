@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
-- Day 15 - Did: `no college` `php` `laravel` `angular`
+- Day 16 - Did: `college` `research project` `php` `laravel` `angular`
+- Day 15 - Did: `college` `research project` `php` `laravel` `angular`
 - Day 14 - Did: `no college` `php` `laravel` `xml`
 - Day 13 - Did: `no college` `php` `laravel` `json`
 - Day 12 - Did: `php` `laravel`
