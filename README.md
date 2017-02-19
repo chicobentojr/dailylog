@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 18 - Did: `research project` `google maps`
 - Day 17 - Did: `college` `research project`
 - Day 16 - Did: `college` `research project` `php` `laravel` `angular`
 - Day 15 - Did: `college` `research project` `php` `laravel` `angular`
