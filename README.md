@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 19 - Did: `algorithms activity` `english presentation`
 - Day 18 - Did: `research project` `google maps`
 - Day 17 - Did: `college` `research project`
 - Day 16 - Did: `college` `research project` `php` `laravel` `angular`
@@ -16,7 +17,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 13 - Did: `no college` `php` `laravel` `json`
 - Day 12 - Did: `php` `laravel`
 - Day 11 - Did: `La La Land`
-- Day 10 - Read: `Millennium IV` / Did: `college` `job interview` `volleyball` `birthday`
+- Day 10 - Did: `college` `job interview` `volleyball` `birthday`
 - Day 09 - Read: `Millennium III finished` / Did: `no college`
 - Day 08 - Read: `Millennium III` / Did: `college` `afternoon with friends`
 - Day 07 - Read: `Millennium III` / Did: `college` `research project`
