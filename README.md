@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 21 - Did: `college` `computer network test` `english presentation` `research project`
 - Day 20 - Did: `college` `research project` `php` `laravel` `heroku`
 - Day 19 - Did: `research project` `algorithms activity` `english presentation`
 - Day 18 - Did: `research project` `google maps`
