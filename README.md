@@ -8,7 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
-- Day 23 - Did: `college` `algorithms test` `Django presentation`
+- Day 25 - Did: `D3` `crossfilter`
+- Day 24 - Did: `college` `algorithms test` `Django presentation`
+- Day 23 - Did: `no college` `django test`
 - Day 22 - Did: `college` `pong game presentation` `research project`
 - Day 21 - Did: `college` `computer network test` `english presentation` `research project`
 - Day 20 - Did: `college` `research project` `php` `laravel` `heroku`
