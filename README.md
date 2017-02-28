@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Feb
 
+- Day 27 - Did: `D3` `crossfilter` `Need For Speed Underground`
 - Day 26 - Did: `D3` `crossfilter`
 - Day 25 - Did: `D3` `crossfilter`
 - Day 24 - Did: `college` `algorithms test` `Django presentation`
