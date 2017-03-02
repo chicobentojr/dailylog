@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Mar
+
+- Day 01 - Did: `Need For Speed Underground` `firmware home test` `A Big Short`
+
 ### Feb
 
 - Day 28 - Did: `D3` `crossfilter` `Need For Speed Underground`
