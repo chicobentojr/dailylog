@@ -8,8 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
-- Day 03 - Did: `college` `React Native Setup`
-- Day 02 - Did: `SIAC meeting` `afternoon with friend` `React Native Introduction`
+- Day 04 - Did: `Need For Speed Underground` `React Native: first steps`
+- Day 03 - Did: `college` `React Native: setup`
+- Day 02 - Did: `SIAC meeting` `afternoon with friend` `React Native: introduction`
 - Day 01 - Did: `Need For Speed Underground` `firmware home test` `A Big Short`
 
 ### Feb
