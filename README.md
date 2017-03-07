@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 06 - Did: `college` `research project` `React Native: update ui`
 - Day 05 - Did: `React Native: http requests`
 - Day 04 - Did: `Need For Speed Underground` `React Native: first steps`
 - Day 03 - Did: `college` `React Native: setup`
