@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
-- Day 08 - Did: `UFRN - SEDIS`
+- Day 08 - Did: `UFRN - SEDIS` `project documentation`
 - Day 07 - Did: `React Native: auth app`
 - Day 06 - Did: `college` `research project` `React Native: update ui`
 - Day 05 - Did: `React Native: http requests`
