@@ -8,7 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
-
+- Day 10 - Did: `UFRN - SEDIS` `Data Annotation Task`
 - Day 09 - Did: `Logan` `no internet home`
 - Day 08 - Did: `UFRN - SEDIS` `SIAC documentation`
 - Day 07 - Did: `React Native: auth app`
