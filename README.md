@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 12 - Read: `Millennium IV` / Did: `IFRN papers` `catch the guitar` `firmware`
 - Day 12 - Read: `Millennium IV` / Did: `godmother's house` `React Native: text input`
 - Day 11 - Did: `React Native: fix apps`
 - Day 10 - Did: `UFRN - SEDIS` `Data Annotation Task`
