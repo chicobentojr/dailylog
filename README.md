@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
-- Day 14 - Read: `Millennium IV` / Did: `firmware`
+- Day 15 - Read: `Millennium IV` / Did: `Plants vs. Zombies finished`
+- Day 14 - Read: `Millennium IV` / Did: `firmware` `Plants vs. Zombies`
 - Day 13 - Read: `Millennium IV` / Did: `IFRN papers` `catch the guitar` `firmware`
 - Day 12 - Read: `Millennium IV` / Did: `godmother's house` `React Native: text input`
 - Day 11 - Did: `React Native: fix apps`
