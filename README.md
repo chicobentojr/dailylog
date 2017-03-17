@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 16 - Read: `Millennium IV` / Did: `firmware field tests`
 - Day 15 - Read: `Millennium IV` / Did: `Plants vs. Zombies finished`
 - Day 14 - Read: `Millennium IV` / Did: `firmware` `Plants vs. Zombies`
 - Day 13 - Read: `Millennium IV` / Did: `IFRN papers` `catch the guitar` `firmware`
