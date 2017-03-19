@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 18 - Read: `Millennium IV` / Did: `review research project article` `review firmware test list`
 - Day 17 - Read: `Millennium IV` / Did: `firmware fix` `research project article`
 - Day 16 - Read: `Millennium IV` / Did: `firmware field tests`
 - Day 15 - Read: `Millennium IV` / Did: `Plants vs. Zombies finished`
