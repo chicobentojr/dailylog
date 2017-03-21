@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 20 - Read: `Millennium IV finished` / Did: `resting` 
 - Day 19 - Read: `Millennium IV` / Did: `annotation task`
 - Day 18 - Read: `Millennium IV` / Did: `review research project article` `review firmware test list`
 - Day 17 - Read: `Millennium IV` / Did: `firmware fix` `research project article`
