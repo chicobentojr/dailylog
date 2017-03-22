@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 21 - Read: `The Catcher in the Rye` / Did: `Luke Cage` 
 - Day 20 - Read: `Millennium IV finished` / Did: `resting` 
 - Day 19 - Read: `Millennium IV` / Did: `annotation task`
 - Day 18 - Read: `Millennium IV` / Did: `review research project article` `review firmware test list`
