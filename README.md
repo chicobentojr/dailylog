@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 24 - Did: `college` `UFRN - SEDIS meeting`
 - Day 23 - Read: `The Catcher in the Rye` / Did: `college` `Iron Fist`
 - Day 22 - Read: `The Catcher in the Rye` / Did: `Luke Cage finished`
 - Day 21 - Read: `The Catcher in the Rye` / Did: `Luke Cage` 
