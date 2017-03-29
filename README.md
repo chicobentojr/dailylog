@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 28 - Read: `Luna Clara e Apolo Onze` / Did: `college` `Lab of Ideas II` `Luna Project` `LAIS meeting`
 - Day 27 - Read: `The Catcher in the Rye finished` / Did: `college` `Lab of Ideas I`
 - Day 26 - Read: `The Catcher in the Rye` / Did: `Iron Fist finished`
 - Day 25 - Read: `The Catcher in the Rye` / Did: `Iron Fist` `Friend's birthday eve` 
