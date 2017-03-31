@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Mar
 
+- Day 31 - Read: `Luna Clara e Apolo Onze` / Did: `college` `web development certification`
 - Day 29 - Read: `Luna Clara e Apolo Onze` / Did: `college` `Luna meeting` `LAICA`
 - Day 28 - Read: `Luna Clara e Apolo Onze` / Did: `college` `Lab of Ideas II` `Luna Project` `LAIS meeting`
 - Day 27 - Read: `The Catcher in the Rye finished` / Did: `college` `Lab of Ideas I`
