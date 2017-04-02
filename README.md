@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Apr
+
+- Day 01 - Read: `Luna Clara e Apolo Onze finished` / Did: `beach` `april fools`
+
 ### Mar
 
 - Day 31 - Read: `Luna Clara e Apolo Onze` / Did: `miss college` `LAIS Project`
