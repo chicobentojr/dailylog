@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 02 - Read: `Forgive Me, Leonard Peacock` / Did: `Pargos Club` `beach: jacumã`
 - Day 01 - Read: `Luna Clara e Apolo Onze finished` / Did: `beach` `april fools`
 
 ### Mar
