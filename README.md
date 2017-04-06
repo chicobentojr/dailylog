@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 05 - Read: `Forgive Me, Leonard Peacock finished` / Did: `miss college` `research project schedule` `Luna links`
 - Day 04 - Read: `Forgive Me, Leonard Peacock` / Did: `college` `database certification` `LAIS meeting`
 - Day 03 - Read: `Forgive Me, Leonard Peacock` / Did: `college` `SIAC meeting` 
 - Day 02 - Read: `Forgive Me, Leonard Peacock` / Did: `Pargos Club` `beach: jacumã`
