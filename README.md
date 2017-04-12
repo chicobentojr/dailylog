@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 11 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Hangout` `Split`
 - Day 10 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Project` `LAIS Meeting` `no internet home`
 - Day 09 - Read: `Vidas Secas finished` / Did: `firmware` `LAIS Project`
 - Day 08 - Did: `firmware` `friends grade collation`
