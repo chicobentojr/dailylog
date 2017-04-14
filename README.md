@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 13 - Read: `Thirteen Reasons Why finished` / Did: `no college` `home` `firmware` 
 - Day 12 - Read: `Thirteen Reasons Why` / Did: `college` `Integrada Meeting` `LAIS Hangout` `firmware`
 - Day 11 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Hangout` `Split`
 - Day 10 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Project` `LAIS Meeting` `no internet home`
