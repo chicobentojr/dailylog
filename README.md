@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
-- Day 14 - Did: `no college` `home` `firmware` `garage tests`
+- Day 15 - Read: `The Sorrows of Young Werther` / Did: `firmware tests finished` `proteus`
+- Day 14 - Did: `no college` `home` `firmware` `garage tests` `proteus`
 - Day 13 - Read: `Thirteen Reasons Why finished` / Did: `no college` `home` `firmware` 
 - Day 12 - Read: `Thirteen Reasons Why` / Did: `college` `Integrada Meeting` `LAIS Hangout` `firmware`
 - Day 11 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Hangout` `Split`
