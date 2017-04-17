@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 16 - Did: `beach` `Luna: review documentation`
 - Day 15 - Read: `The Sorrows of Young Werther` / Did: `firmware tests finished` `proteus`
 - Day 14 - Did: `no college` `home` `firmware` `garage tests` `proteus`
 - Day 13 - Read: `Thirteen Reasons Why finished` / Did: `no college` `home` `firmware` 
