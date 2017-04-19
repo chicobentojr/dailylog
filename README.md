@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
-- Day 16 - Did: `college` `LAIS Project` `LAIS Hangout`
+- Day 18 - Did: `miss college` `firmware` `LAIS Meeting`
+- Day 17 - Did: `college` `LAIS Project` `LAIS Hangout`
 - Day 16 - Did: `beach` `Luna: review documentation`
 - Day 15 - Read: `The Sorrows of Young Werther` / Did: `firmware tests finished` `proteus`
 - Day 14 - Did: `no college` `home` `firmware` `garage tests` `proteus`
