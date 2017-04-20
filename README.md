@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 19 - Did: `college` `firmware` `Master Pitch` `LAIS Hangout`
 - Day 18 - Did: `miss college` `firmware` `LAIS Meeting`
 - Day 17 - Did: `college` `LAIS Project` `LAIS Hangout`
 - Day 16 - Did: `beach` `Luna: review documentation`
