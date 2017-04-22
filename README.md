@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 21 - Did: `no college` `Rio Tinto`
 - Day 20 - Did: `college` `firmware` `Master Pitch presentation`
 - Day 19 - Did: `college` `firmware` `Master Pitch` `LAIS Hangout`
 - Day 18 - Did: `miss college` `firmware` `LAIS Meeting`
