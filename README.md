@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 23 - Read: `The Sorrows of Young Werther` / Did: `Rio Tinto`
 - Day 22 - Did: `Rio Tinto`
 - Day 21 - Did: `no college` `Rio Tinto`
 - Day 20 - Did: `college` `firmware` `Master Pitch presentation`
