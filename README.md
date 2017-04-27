@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
-- Day 25 - Did: `college` `LAIS Project` `LAIS Meeting` `Life`
+- Day 26 - Did: `no college` `firmware field tests` `Integrada Meeting` `milk shake with friend`
+- Day 25 - Did: `college` `LAIS Project` `LAIS Meeting` `Life` `firmware`
 - Day 24 - Did: `college` `LAIS Project` `afternoon with friends`
 - Day 23 - Read: `The Sorrows of Young Werther` / Did: `Rio Tinto`
 - Day 22 - Did: `Rio Tinto`
