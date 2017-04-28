@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Apr
 
+- Day 27 - Did: `college` `SEDIS Meeting` `LAIS Hangout` `NAVI Workspace`
 - Day 26 - Did: `no college` `firmware field tests` `Integrada Meeting` `milk shake with friend`
 - Day 25 - Did: `college` `LAIS Project` `LAIS Meeting` `Life` `firmware`
 - Day 24 - Did: `college` `LAIS Project` `afternoon with friends`
