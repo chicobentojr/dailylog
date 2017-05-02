@@ -6,9 +6,13 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### May
+
+- Day 01 - Did: `Guardians of the Galaxy Vol. 2`
+
 ### Apr
 
-- Day 30 - Did: `A Cabana`
+- Day 30 - Did: `friend's house` `The Shack`
 - Day 29 - Did: `friend's house` `Wedding`
 - Day 28 - Did: `no college` `LAIS Project`
 - Day 27 - Did: `college` `SEDIS Meeting` `LAIS Hangout` `NAVI Workspace`
