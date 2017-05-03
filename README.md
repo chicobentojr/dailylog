@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
-- Day 01 - Did: `Guardians of the Galaxy Vol. 2`
+- Day 02 - Did: `miss college` `LAIS wireframes` `LAIS Meeting` `C4 friends`
+- Day 01 - Did: `holiday` `Guardians of the Galaxy Vol. 2`
 
 ### Apr
 
