@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 04 - Did: `college` `Geoguide Meeting` `LAIS Hangout` `SIAC Meeting`
 - Day 03 - Did: `miss college` `Spotlight` `Gran Torino` `LAIS Wireframes` `LAIS Hangout`
 - Day 02 - Did: `miss college` `LAIS wireframes` `LAIS Meeting` `C4 friends`
 - Day 01 - Did: `holiday` `Guardians of the Galaxy Vol. 2`
