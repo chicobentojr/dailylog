@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 06 - Did: `searching laptops`
 - Day 05 - Did: `college` `miss LAIS Hangout` `firmware`
 - Day 04 - Did: `college` `Geoguide Meeting` `LAIS Hangout` `SIAC Meeting`
 - Day 03 - Did: `miss college` `Spotlight` `Gran Torino` `LAIS Wireframes` `LAIS Hangout`
