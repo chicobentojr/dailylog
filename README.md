@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 08 - Did: `miss college` `LAIS Project` `LAIS Hangout`
 - Day 07 - Did: `friend's house` `Little Miss Sunshine` `LAIS Project`
 - Day 06 - Did: `searching laptops`
 - Day 05 - Did: `college` `miss LAIS Hangout` `firmware`
