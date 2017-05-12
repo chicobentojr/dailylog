@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 11 - Did: `college` `Alien: Covenant`
 - Day 10 - Did: `Geoguide Project` `college` `LAIS Project`
 - Day 09 - Did: `college` `C4 friend`
 - Day 08 - Did: `miss college` `LAIS Project` `LAIS Hangout`
