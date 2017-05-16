@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 15 - Did: `college` `LAIS Project` `LAIS Hangout`
 - Day 14 - Did: `godmother's house` `Moana` `LAIS Project`
 - Day 13 - Did: `LAIS Project`
 - Day 12 - Did: `college` `LAIS Project` `LAIS Hangout`
