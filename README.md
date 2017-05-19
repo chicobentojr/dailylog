@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 18 - Did: `college` `UFRN Letras presentation`
 - Day 17 - Did: `dermatologist` `LAIS Project` `college` `LAIS Hangout`
 - Day 16 - Did: `college` `Epistemology test` `LAIS Hangout`
 - Day 15 - Did: `college` `LAIS Project` `LAIS Hangout`
