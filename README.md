@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 25 - Did: `college` `OS shell presentation` `OOA test` `Geoguide Meeting` `ifrn-messenger presentation` `LAIS Project, Meeting`
 - Day 24 - Did: `OS shell` `college` `LAIS Hangout` `ifrn-messenger`
 - Day 23 - Did: `college` `Geoguide Project` `LAIS Hangout` `ifrn-messenger`
 - Day 22 - Read: `The Sorrows of Young Werther` / Did: `college` `LAIS Meeting` `ifrn-messenger`
