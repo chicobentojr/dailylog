@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 28 - Did: `LAIS Project` `SIAC Project`
 - Day 27 - Did: `LAIS Project` `SIAC Project`
 - Day 26 - Did: `college` `Data Structure I test` `LAIS Project, Meeting`
 - Day 25 - Did: `college` `OS shell presentation` `OOA test` `Geoguide Meeting` `ifrn-messenger presentation` `LAIS Project, Meeting`
