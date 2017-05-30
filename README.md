@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
+- Day 29 - Did: `college` `LAIS Project, Meeting` `funeral`
 - Day 28 - Did: `church` `SIAC Project`
 - Day 27 - Did: `LAIS Project` `SIAC Project`
 - Day 26 - Did: `college` `Data Structure I test` `LAIS Project, Meeting`
