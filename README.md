@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### May
 
-- Day 30 - Did: `college` `LAIS Project, Meeting`
+- Day 31 - Did: `college` `Dell call` `LAIS Project, Hangout`
+- Day 30 - Did: `college` `LAIS Project, Hangout`
 - Day 29 - Did: `college` `LAIS Project, Meeting` `funeral`
 - Day 28 - Did: `church` `SIAC Project`
 - Day 27 - Did: `LAIS Project` `SIAC Project`
