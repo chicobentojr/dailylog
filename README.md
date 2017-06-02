@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Jun
+
+- Day 01 - Did: `college` `LAIS Hangout` `friend's birthday`
+
 ### May
 
 - Day 31 - Did: `college` `Dell call` `LAIS Project, Hangout`
