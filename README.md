@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 04 - Did: `Luna Project`
 - Day 03 - Did: `Docker course I` `LAIS Meeting`
 - Day 02 - Did: `college` `LAIS Project, Hangout`
 - Day 01 - Did: `college` `LAIS Hangout` `friend's birthday`
