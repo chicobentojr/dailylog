@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 10 - Did: `Pargus club`
 - Day 09 - Did: `college` `UFRN architecture` `LAIS Hangout` `Docker course III` `pizza`
 - Day 08 - Did: `college` `LAIS Project, Hangout` `Docker course II`
 - Day 07 - Did: `college` `Geoguide google maps hull` `SIAC Meeting` `LAIS Hangout`
