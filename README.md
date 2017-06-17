@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 16 - Did: `miss college` `LAIS Meeting` `C4 friends`
 - Day 15 - Did: `holiday` `DB Kai`
 - Day 14 - Did: `no college` `DB Kai` `LAIS Meeting`
 - Day 13 - Did: `college` `read: Geoguide article`
