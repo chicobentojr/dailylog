@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 20 - Did: `miss college` `DB Kai` `LAIS Hangout`
 - Day 19 - Did: `college` `Nisia Meeting`
 - Day 18 - Did: `The Fate of the Furious`
 - Day 17 - Did: `DB Kai`
