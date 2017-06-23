@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 22 - Read: `The Sorrows of Young Werther` / Did: `college` `LAIS Documentation`
 - Day 21 - Did: `college` `SEDIS: contract`
 - Day 20 - Did: `miss college` `DB Kai` `LAIS Hangout`
 - Day 19 - Did: `college` `Nisia Meeting`
