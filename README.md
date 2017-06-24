@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 23 - Did: `college` `Binary Tree presentation` `SEDIS Meeting` `Dell arrived`
 - Day 22 - Read: `The Sorrows of Young Werther` / Did: `college` `LAIS Documentation`
 - Day 21 - Did: `college` `SEDIS: contract`
 - Day 20 - Did: `miss college` `DB Kai` `LAIS Hangout`
