@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 24 - Did: `Windows configuration`
 - Day 23 - Did: `college` `Binary Tree presentation` `SEDIS Meeting` `Dell arrived`
 - Day 22 - Read: `The Sorrows of Young Werther` / Did: `college` `LAIS Documentation`
 - Day 21 - Did: `college` `SEDIS: contract`
@@ -85,7 +86,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 16 - Did: `beach` `Luna: review documentation`
 - Day 15 - Read: `The Sorrows of Young Werther` / Did: `firmware tests finished` `proteus`
 - Day 14 - Did: `no college` `home` `firmware` `garage tests` `proteus`
-- Day 13 - Read: `Thirteen Reasons Why finished` / Did: `no college` `home` `firmware` 
+- Day 13 - Read: `Thirteen Reasons Why finished` / Did: `no college` `home` `firmware`
 - Day 12 - Read: `Thirteen Reasons Why` / Did: `college` `Integrada Meeting` `LAIS Hangout` `firmware`
 - Day 11 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Hangout` `Split`
 - Day 10 - Read: `Thirteen Reasons Why` / Did: `college` `LAIS Project` `LAIS Meeting` `no internet home`
@@ -95,7 +96,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 06 - Read: `Vidas Secas` / Did: `college` `miss APOO certification`
 - Day 05 - Read: `Forgive Me, Leonard Peacock finished` / Did: `miss college` `research project schedule` `Luna links`
 - Day 04 - Read: `Forgive Me, Leonard Peacock` / Did: `college` `database certification` `LAIS meeting`
-- Day 03 - Read: `Forgive Me, Leonard Peacock` / Did: `college` `SIAC meeting` 
+- Day 03 - Read: `Forgive Me, Leonard Peacock` / Did: `college` `SIAC meeting`
 - Day 02 - Read: `Forgive Me, Leonard Peacock` / Did: `Pargos Club` `beach: jacumã`
 - Day 01 - Read: `Luna Clara e Apolo Onze finished` / Did: `beach` `april fools`
 
@@ -107,12 +108,12 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 - Day 28 - Read: `Luna Clara e Apolo Onze` / Did: `college` `Lab of Ideas II` `Luna Project` `LAIS meeting`
 - Day 27 - Read: `The Catcher in the Rye finished` / Did: `college` `Lab of Ideas I`
 - Day 26 - Read: `The Catcher in the Rye` / Did: `Iron Fist finished`
-- Day 25 - Read: `The Catcher in the Rye` / Did: `Iron Fist` `Friend's birthday eve` 
+- Day 25 - Read: `The Catcher in the Rye` / Did: `Iron Fist` `Friend's birthday eve`
 - Day 24 - Did: `college` `UFRN - SEDIS meeting`
 - Day 23 - Read: `The Catcher in the Rye` / Did: `college` `Iron Fist`
 - Day 22 - Read: `The Catcher in the Rye` / Did: `Luke Cage finished`
-- Day 21 - Read: `The Catcher in the Rye` / Did: `Luke Cage` 
-- Day 20 - Read: `Millennium IV finished` / Did: `resting` 
+- Day 21 - Read: `The Catcher in the Rye` / Did: `Luke Cage`
+- Day 20 - Read: `Millennium IV finished` / Did: `resting`
 - Day 19 - Read: `Millennium IV` / Did: `annotation task`
 - Day 18 - Read: `Millennium IV` / Did: `review research project article` `review firmware test list`
 - Day 17 - Read: `Millennium IV` / Did: `firmware fix` `research project article`
@@ -168,9 +169,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 - Day 31 - Read: `Millennium III` / Did: `college` `driving school` `Avatar Korra: season II`
 - Day 30 - Did: `college` `driving school` `Avatar Korra: season II`  
-- Day 29 - Read: `Millennium III` / Did: `Black Mirror: season III` `Avatar Korra: season I` 
-- Day 28 - Read: `Millennium III` / Did: `Black Mirror: season I & II` `Avatar Korra season I` 
-- Day 27 - Read: `Millennium III` / Did: `college` `driving school` `algorithms activity` 
+- Day 29 - Read: `Millennium III` / Did: `Black Mirror: season III` `Avatar Korra: season I`
+- Day 28 - Read: `Millennium III` / Did: `Black Mirror: season I & II` `Avatar Korra season I`
+- Day 27 - Read: `Millennium III` / Did: `college` `driving school` `algorithms activity`
 - Day 26 - Read: `Millennium III` / Did: `no class` `driving school` `Source Code`
 - Day 25 - Did: `college` `driving school` `pong game`
 - Day 24 - Read: `Millennium II finished` / Did: `skip class` `driving school` `pong game`
