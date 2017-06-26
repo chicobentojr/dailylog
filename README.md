@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 25 - Did: `Ubuntu configuration` `Nisia: camera`
 - Day 24 - Did: `Windows configuration`
 - Day 23 - Did: `college` `Binary Tree presentation` `SEDIS Meeting` `Dell arrived`
 - Day 22 - Read: `The Sorrows of Young Werther` / Did: `college` `LAIS Documentation`
