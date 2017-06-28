@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jun
 
+- Day 27 - Read: `The Sorrows of Young Werther` / Did: `miss college` `LAIS Project`
 - Day 26 - Did: `college` `Nisia Meeting` `matrix solution`
 - Day 25 - Did: `Ubuntu configuration` `Nisia: camera` `matrix solution`
 - Day 24 - Did: `Windows configuration`
