@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Jul
+
+- Day 01 - Did: `friend's house` `Ferris Bueller's Day Off` `LAIS Project`
+
 ### Jun
 
 - Day 30 - Did: `holiday` `friend's house` `The Breakfast Club` `pizza` `Hacksaw Ridge`
