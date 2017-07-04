@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 03 - Did: `college` `LAIS Hangout` `Epistemology activity`
 - Day 02 - Did: `Luna Project`
 - Day 01 - Did: `friend's house` `Ferris Bueller's Day Off` `LAIS Project`
 
