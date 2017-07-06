@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 05 - Did: `college` `hash table` `Luna Project` `LAIS Meeting`
 - Day 04 - Did: `college`
 - Day 03 - Did: `college` `LAIS Hangout` `Epistemology activity`
 - Day 02 - Did: `Luna Project`
