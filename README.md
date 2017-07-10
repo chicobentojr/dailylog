@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 09 - Did: `Luna Project`
 - Day 08 - Did: `Luna Project`
 - Day 07 - Did: `college` `SIAC documentation` `Wonder Woman`
 - Day 06 - Did: `college` `SEDIS documentation` `LAIS Hangout` `Luna Project`
