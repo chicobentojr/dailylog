@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 14 - Did: `college` `Data Structure` `SIAC Meeting` `Spider-Man: Homecoming`
 - Day 13 - Did: `college` `ifrn-messenger Meeting` `SIAC Documentation`
 - Day 12 - Did: `college` `sort algorithm presentation` `SIAC Meeting`
 - Day 11 - Did: `miss college` `cold` `SIAC Documentation`
