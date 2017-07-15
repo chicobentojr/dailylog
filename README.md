@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 13 - Did: `college` `ifrn-messenger Meeting` `SIAC Documentation`
 - Day 12 - Did: `college` `sort algorithm presentation` `SIAC Meeting`
 - Day 11 - Did: `miss college` `cold` `SIAC Documentation`
 - Day 10 - Did: `college` `Luna presentation` `cousin's son birthday`
