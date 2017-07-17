@@ -8,7 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
-- Day 15 - Did: `resting`
+- Day 16 - Did: `shame on me`
+- Day 15 - Did: `shame on me`
 - Day 14 - Did: `college` `Data Structure` `SIAC Meeting` `Spider-Man: Homecoming`
 - Day 13 - Did: `college` `ifrn-messenger Meeting` `SIAC Documentation`
 - Day 12 - Did: `college` `sort algorithm presentation` `SIAC Meeting`
