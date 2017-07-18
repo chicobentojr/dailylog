@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 17 - Did: `college` `Nisia Meeting` `LAIS Project`
 - Day 16 - Did: `shame on me`
 - Day 15 - Did: `shame on me`
 - Day 14 - Did: `college` `Data Structure` `SIAC Meeting` `Spider-Man: Homecoming`
