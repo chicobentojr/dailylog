@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 20 - Did: `6 WTADS: Luna, SIAC and GeoGuide presentation` `pizza`
 - Day 19 - Did: `college` `Splay Tree presentation` `LAIS Meeting` `Spirited Away`
 - Day 18 - Did: `college` `Epistemology test` `Nisia Project`
 - Day 17 - Did: `college` `Nisia Meeting` `LAIS Project`
