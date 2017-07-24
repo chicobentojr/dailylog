@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 23 - Read: `The Sorrows of Young Werther finished` / Did: `godmother's house` `Emprestei`
 - Day 22 - Read: `The Sorrows of Young Werther` / Did: `godmother's house` `To The Bone`
 - Day 21 - Did: `6 WTADS: Luna won`
 - Day 20 - Did: `6 WTADS: Luna, SIAC and GeoGuide presentation` `pizza`
