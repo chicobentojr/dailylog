@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 25 - Did: `SIAC Meeting` `Nisia Meeting` `LAIS Meeting` `pizza`
 - Day 24 - Did: `college` `Emprestei presentation` `LAIS Project`
 - Day 23 - Read: `The Sorrows of Young Werther finished` / Did: `godmother's house` `Emprestei`
 - Day 22 - Read: `The Sorrows of Young Werther` / Did: `godmother's house` `To The Bone`
