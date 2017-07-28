@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 27 - Read: `A Clockwork Orange` / Did: `college` `OOPA test` `LAIS Project, Hangout`
 - Day 26 - Did: `no college` `LAIS Hangout` `OS activity`
 - Day 25 - Did: `SIAC Meeting` `Nisia Meeting` `LAIS Meeting` `pizza`
 - Day 24 - Did: `college` `Emprestei presentation` `LAIS Project`
