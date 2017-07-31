@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
+- Day 30 - Did: `LAIS documentation` `Nisia Project` `blackout`
 - Day 29 - Read: `A Clockwork Orange` / Did: `LAIS Meeting` `The Purge: Anarchy`
 - Day 28 - Did: `college` `OS test` `LAIS documentation`
 - Day 27 - Read: `A Clockwork Orange` / Did: `college` `OOPA test` `LAIS Project, Hangout`
