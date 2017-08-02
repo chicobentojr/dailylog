@@ -6,6 +6,10 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Aug
+
+- Day 01 - Did: `college` `exams result` `Luna awards` `college's vacation started`
+
 ### Jul
 
 - Day 31 - Did: `college` `Nisia presentation, Meeting`
