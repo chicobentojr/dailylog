@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 07 - Did: `LAIS Project, Meeting`
 - Day 06 - Read: `A Clockwork Orange` / Did: `shame on me`
 - Day 05 - Read: `A Clockwork Orange` / Did: `dad's "new" car`
 - Day 04 - Read: `A Clockwork Orange` / Did: `Ionic class II`
