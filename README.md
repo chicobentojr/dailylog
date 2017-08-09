@@ -8,6 +8,7 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 08 - Did: `working with dad` `Integrada simple schedule`
 - Day 07 - Did: `LAIS Project, Meeting`
 - Day 06 - Read: `A Clockwork Orange` / Did: `shame on me`
 - Day 05 - Read: `A Clockwork Orange` / Did: `dad's "new" car`
