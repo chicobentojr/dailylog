@@ -8,6 +8,8 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Aug
 
+- Day 11 - Read: `The Slow Regard of Silent Things` / Did: `Parque da Cidade` `Ballerina`
+- Day 10 - Read: `The Slow Regard of Silent Things` / Did: `LAIS Project, Meeting` `pizza`
 - Day 09 - Read: `A Clockwork Orange finished` / Did: `LAIS Project` `Dunkirk`
 - Day 08 - Did: `working with dad` `Integrada simple schedule`
 - Day 07 - Did: `LAIS Project, Meeting`
