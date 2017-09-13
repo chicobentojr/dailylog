@@ -6,8 +6,42 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Sep
+
+- Day 12 - Did: `miss college` `SIAC Meeting` `smartphone: Alcatel Pixi 4`
+- Day 11 - Did: `miss college` `Nisia Web finished` 
+- Day 10 - Did: `Nisia Web` `Koan concert` 
+- Day 09 - Did: `ACM International Collegiate Programming Contest`
+- Day 08 - Did: `miss college` `Nísia Web` `SIAC Meeting` `friend's house` `pizza`
+- Day 07 - Did: `holiday` `Nísia Web`
+- Day 06 - Did: `college` `Nisia Meeting` `Geoguide Meeting`
+- Day 05 - Did: `college` `Nisia Web`
+- Day 04 - Did: `college` `DB II certification` `Nisia Meeting` `Competitive Programming` `LAIS Meeting`
+- Day 03 - Did: `Nísia web`
+- Day 02 - Did: `Nísia web` `Controla Samba`
+- Day 01 - Did: `college` `futsal` `friend's travel`
+
 ### Aug
 
+- Day 31 - Did: `college` `Distributed Systems certification` `Nísia web`
+- Day 30 - Did: `college` `Nisia Meeting, Project` `Geoguide Meeting`
+- Day 29 - Read: `Story of Your Life finished` / Did: `college` `Nisia Web` `LAIS Meeting`
+- Day 28 - Did: `college` `LAB Ideas II: volunteer`
+- Day 27 - Read: `Story of Your Life` / Did: `resting`
+- Day 26 - Read: `Story of Your Life` / Did: `LAIS Project`
+- Day 25 - Read: `Story of Your Life` / Did: `college` `LAB Ideas I: volunteer` `pizza`
+- Day 24 - Did: `miss college` `LAIS Project`
+- Day 23 - Read: `Story of Your Life` / Did: `college` `Nísia Meeting, Web Project`
+- Day 22 - Read: `Story of Your Life` / Did: `college` `The Defenders`
+- Day 21 - Read: `Story of Your Life` / Did: `college's vacation finished` `college` `Nisia Meeting` `LAIS 1° CIITS opening`
+- Day 20 - Read: `Story of Your Life` / Did: `Rio Tinto`
+- Day 19 - Read: `Story of Your Life` / Did: `Rio Tinto`
+- Day 18 - Read: `Story of Your Life` / Did: `Rio Tinto`
+- Day 17 - Did: `LAIS Project`
+- Day 16 - Did: `LAIS Project`
+- Day 15 - Read: `The Slow Regard of Silent Things finished` / Did: `Nisia facebook auth failed`
+- Day 14 - Did: `LAIS testing, Meeting`
+- Day 13 - Did: `godmother's house`
 - Day 12 - Read: `The Slow Regard of Silent Things` / Did: `resting`
 - Day 11 - Read: `The Slow Regard of Silent Things` / Did: `Parque da Cidade` `Ballerina` `miss dailylog`
 - Day 10 - Read: `The Slow Regard of Silent Things` / Did: `LAIS Project, Meeting` `pizza`
