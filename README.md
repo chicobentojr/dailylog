@@ -6,8 +6,33 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Oct
+
+- Day 04 - Read: `Wonder` / Did: `college` `LAIS Hangout, Meeting`
+- Day 03 - Did: `holiday` `Dragon Ball Super` `architecture activity`
+- Day 02 - Did: `LAIS Project` `college` `Nisia Meeting` `competitive programming` `LAIS Meeting`
+- Day 01 - Did: `Kya Dark Lineage` `Dragon Ball Super` `Ori and the Blind Forest finished 100%`
+
 ### Sep
 
+- Day 30 - Did: `Kya Dark Lineage` `LAIS Project` `Dragon Ball Super`
+- Day 29 - Did: `Data Structure II activity` `college` `LAIS Hangout`
+- Day 28 - Read: `Wonder` / Did: `college` `Luna presentation` `LAIS Project, Hangout`
+- Day 27 - Read: `Wonder` / Did: `Ori and the Blind Forest finished` `college` `LAIS Project, Hangout` `Luna web, Hangout`
+- Day 26 - Did: `college` `Luna web` `LAIS Project, Hangout` `AMD R7 240x sold` 
+- Day 25 - Did: `college` `Luna web` `Nisia Meeting` `competitive programming` `LAIS Meeting`
+- Day 24 - Did: `Ori and the Blind Forest`
+- Day 23 - Did: `friend visit` `Luna Hangout` `Ori and the Blind Forest`
+- Day 22 - Did: `college` `LAIS Meeting, Hangout`
+- Day 21 - Read: `Wonder` / Did: `college` `LAIS Project, Hangout` `VueJs: getting started`
+- Day 20 - Did: `college` `Geoguide Meeting, code tour`
+- Day 19 - Did: `no class` `Extremely Loud and Incredibly Close` `Mary and Max` `LAIS Project, Hangout`
+- Day 18 - Did: `no class` `Me and Earl and the Dying Girl`
+- Day 17 - Did: `Atypical finished` `love, Rosie` `amor.com`
+- Day 16 - Did: `Atypical`
+- Day 15 - Did: `college` `friend icecream` `JI opening` `friend sandwich`
+- Day 14 - Did: `college` `SIAC Documents` `PTD Meeting`
+- Day 13 - Did: `college` `Geoguide Meeting`
 - Day 12 - Did: `miss college` `SIAC Meeting` `smartphone: Alcatel Pixi 4`
 - Day 11 - Did: `miss college` `Nisia Web finished` 
 - Day 10 - Did: `Nisia Web` `Koan concert` 
