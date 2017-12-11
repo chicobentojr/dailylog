@@ -6,8 +6,81 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ## 2017
 
+### Dec
+
+- Day 10 - Did: `first day in Bosque das Colinas (again)` `LAIS Project` `Dragon Ball Super`
+- Day 09 - Read: `Everything is Eventual` / Did: `moving out`
+- Day 08 - Read: `Everything is Eventual` / Did: `college` `Maze presentation` `Dojo and LAIS Meeting`
+- Day 07 - Did: `college` `Luna Presentation` `Graph Maze` `Deepin and Elementary OS`
+- Day 06 - Did: `miss college` `LAIS Workshop` `GeoGuide Meeting` `Luna Project`
+- Day 05 - Read: `Everything is Eventual` / Did: `college` `Graph presentation` `Luna Project` `LAIS Project`
+- Day 04 - Did: `college` `friend at shopping` `LAIS Meeting`
+- Day 03 - Did: `Dark` `curriculum`
+- Day 02 - Did: `Python Day Natal 2017` `GeoGuide first talk \o/`
+- Day 01 - Did: `college` `Dojo` `GeoGuide presentation finished`
+
+### Nov
+
+- Day 30 - Did: `college` `Luna Meeting` `GeoGuide Meeting, presentation` `DevApp Meeting`
+- Day 29 - Did: `miss college` `FIFA 18` `GTA V` `friend at home` `GeoGuide presentation start`
+- Day 28 - Read: `Everything is Eventual` / Did: `college` `FIFA 18` `GTA V` `friend at home` `The Punisher finished`
+- Day 27 - Did: `miss college` `LAIS Project` `The Punisher`
+- Day 26 - Did: `Luna Project` `LAIS Project` `The Punisher`
+- Day 25 - Did: `Luna Project` `LAIS Project` `The Punisher`
+- Day 24 - Did: `Expotec II` `Robinson Meeting` `Dojo` `ps1 soccer`
+- Day 23 - Did: `Expotec I` `Luna presentation` `Nísia Presentation` `sundae with friends`
+- Day 22 - Read: `Everything is Eventual` / Did: `college` `Lenovo K5`
+- Day 21 - Did: `holiday` `Luna Project`
+- Day 20 - Did: `college` `LAIS Meeting`
+- Day 19 - Did: `Geoguide Project` `Sarau de Bolso` `friend's home` 
+- Day 18 - Did: `Luna Project` `resting`
+- Day 17 - Did: `college` `IFRN Reitoria` `sundae with friends`
+- Day 16 - Read: `Everything is Eventual` / Did: `college` `Luna presentation` `Geoguide Meeting`
+- Day 15 - Did: `holiday` `LAIS Project`
+- Day 14 - Did: `no class` `resting`
+- Day 13 - Did: `miss college` `Genoveva presentation` `LAIS Meeting`
+- Day 12 - Did: `LAIS Project` `Festival Do Sol`
+- Day 11 - Did: `Beatriz's house` `Captain Fantastic` `GTA home`
+- Day 10 - Did: `2nd Fr-Br School III`
+- Day 09 - Did: `2nd Fr-Br School II`
+- Day 08 - Did: `2nd Fr-Br School I`
+- Day 07 - Did: `miss college` `Genoveva class` `2nd Fr-Br School: Organization`
+- Day 06 - Did: `miss college` `Genoveva class` `UFRN friends` `LAIS Meeting`
+- Day 05 - Did: `Brother's move out`
+- Day 04 - Did: `LAIS Project` `Assessor profile`
+- Day 03 - Did: `miss college` `Genoveva class`
+- Day 02 - Did: `holiday` `Luna Meeting` `Dielly's house` `pizza`
+- Day 01 - Did: `miss college` `Genoveva class`
+
 ### Oct
 
+- Day 31 - Did: `miss college` `Behrooz keynote` `Genoveva class`
+- Day 30 - Did: `college` `Geoguide presentation`
+- Day 29 - Did: `I don't remember :(`
+- Day 28 - Did: `I don't remember :(`
+- Day 27 - Read: `Everything is Eventual` / Did: `Code Girl 5`
+- Day 26 - Read: `Everything is Eventual` / Did: `college` `Luna Project` `LAIS Project`
+- Day 25 - Read: `Everything is Eventual` / Did: `college` `Geoguide prepresentation`
+- Day 24 - Read: `Everything is Eventual` / Did: `college` `LAIS Project`
+- Day 23 - Read: `Everything is Eventual` / Did: `college` `LAIS Project, Meeting`
+- Day 22 - Did: `I don't remember :(`
+- Day 21 - Did: `Luna Hangout` `Dragon Ball Super finished published eps`
+- Day 20 - Did: `Dragon Ball Super` `college` `data structure: AVL`
+- Day 19 - Did: `college` `software process test` `LAIS Project, Hangout` 
+- Day 18 - Did: `miss college` `LAIS Project, Hangout` `Dragon Ball Super` `Luna Hangout`
+- Day 17 - Did: `college` `data structure test` `LAIS Meeting, Hangout`
+- Day 16 - Did: `miss college` `2nd French Meeting` `competitive programming` `LAIS Meeting`
+- Day 15 - Did: `Dragon Ball Super` `godmother's birthday party`
+- Day 14 - Did: `Uncharted 4 finished` `Dragon Ball Super` `AVL code`
+- Day 13 - Did: `no college` `Uncharted 4` `Dragon Ball Super` `LAIS Hangout` `AVL code`
+- Day 12 - Did: `holiday` `Uncharted 4` `Dragon Ball Super`
+- Day 11 - Did: `college` `Geoguide Meeting` `LAIS Hangout` `Uncharted 4`
+- Day 10 - Did: `college` `LAIS MRs revision, Hangout` `Luna Hangout` `PS4 \o/`
+- Day 09 - Did: `LAIS Documentation``college` `Methodology test` `Nisia Meeting` `competitive programming` `LAIS Meeting`
+- Day 08 - Did: `LAIS fix` `Nísia repo`
+- Day 07 - Read: `Wonder finished` / Did: `resting`
+- Day 06 - Read: `Wonder` / Did: `college` `LAIS Documentation`
+- Day 05 - Read: `Wonder` / Did: `college` `Luna Project` `LAIS Hangout` `friend's icecream`
 - Day 04 - Read: `Wonder` / Did: `college` `LAIS Hangout, Meeting`
 - Day 03 - Did: `holiday` `Dragon Ball Super` `architecture activity`
 - Day 02 - Did: `LAIS Project` `college` `Nisia Meeting` `competitive programming` `LAIS Meeting`
