@@ -8,6 +8,27 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Dec
 
+- Day 31 - Did: `Friends II` `Uncharted I` `home` `family`
+- Day 30 - Did: `Friends I finished` `Uncharted I`
+- Day 29 - Did: `UFRN contract deliver` `Methodology paper email` `afternoon with friends`
+- Day 28 - Did: `LAIS contract signature` `Methodology paper v2`
+- Day 27 - Did: `software process presentation` `Methodology paper v1` `afternoon with friend` `Maria Cecília was born <3`
+- Day 26 - Did: `UFRN contract` `ND Tree Meeting` `friends midway, IFRN, icecream`
+- Day 25 - Did: `Friends I` `Christmas` `home`
+- Day 24 - Did: `Friends I` `Christmas eve` `family` `dad cake ;9`
+- Day 23 - Did: `FIFA 18 & GTA V with cousin` `LAIS Project`
+- Day 22 - Did: `college` `software architecture test` `5km`
+- Day 21 - Did: `no class` `LAIS Project` `Luna prints` `3km`
+- Day 20 - Did: `college` `software process test` `TII friends` `Uno`
+- Day 19 - Did: `college` `LAIS Project`
+- Day 18 - Did: `college` `LAIS Project, Meeting` `3km`
+- Day 17 - Did: `resting` `3km`
+- Day 16 - Did: `Dragon Ball Super`
+- Day 15 - Did: `7° WTADS III` `React Native course` `pizza` `sundae` `billiards`
+- Day 14 - Did: `7° WTADS II` `Salmus presentation` `BK Mix`
+- Day 13 - Did: `7° WTADS I` `Luna Presentation` `first panel discussion: TII and TADS` `LAIS Project`
+- Day 12 - Read: `Everything is Eventual` / Did: `Methodology activity` `college` `Graph Problem presentation` `Wonder`
+- Day 11 - Did: `no class` `Dragon Ball Super` `LAIS Projeto and Meeting`
 - Day 10 - Did: `first day in Bosque das Colinas (again)` `LAIS Project` `Dragon Ball Super`
 - Day 09 - Read: `Everything is Eventual` / Did: `moving out`
 - Day 08 - Read: `Everything is Eventual` / Did: `college` `Maze presentation` `Dojo and LAIS Meeting`
