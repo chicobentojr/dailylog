@@ -4,6 +4,26 @@ A little bit of my day
 
 Inspired by [Felipe Fialho - Daily Log](https://github.com/LFeh/dailylog)
 
+## 2018
+
+### Jan
+
+- Day 15 - Did: `Black Mirror IV finished` `Friends IV` `The End of the F***ing World` `5 work`
+- Day 14 - Did: `São Braz: beach` `5 work`
+- Day 13 - Did: `godmother's house` `Dragon Ball Super`
+- Day 12 - Did: `Friends III finished` `Uncharted III` `5 work` `ND Tree tests`
+- Day 11 - Read: `Quarto de Despejo` / Did: `ND Tree Meeting` `shoes and pants` `5 work` `ND Tree bug`
+- Day 10 - Did: `Friends III` `Uncharted III` `ND Tree tests` `5km+3 work`  
+- Day 09 - Read: `Everything is Eventual finished` / Did: `Friends III` `Uncharted II finished` `ND Tree` `5km`
+- Day 08 - Read: `Everything is Eventual` / Did: `Friends III` `Uncharted II` `5km`
+- Day 07 - Read: `Everything is Eventual` / Did: `Black Mirror IV` `Dragon Ball Super` `5km`
+- Day 06 - Did: `São Braz: beach` `Black Mirror IV`
+- Day 05 - Read: `Everything is Eventual` / Did: `Friends III` `Uncharted II` `4km`
+- Day 04 - Did: `Bia's house` `Valerian`
+- Day 03 - Read: `Everything is Eventual` / Did: `Black Mirror IV` `Friends III` `Uncharted II` `3km`
+- Day 02 - Did: `Black Mirror IV` `Friends II finished` `Uncharted I finished`
+- Day 01 - Did: `new year!` `Friends II` `Black Mirror IV` `Uncharted I` `3km`
+
 ## 2017
 
 ### Dec
