@@ -1,4 +1,4 @@
-# dailylog
+# dailylog [deprecated]
 
 A little bit of my day
 
